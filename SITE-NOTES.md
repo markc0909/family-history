@@ -27,7 +27,7 @@ Validation completed:
 - Audio passage control tested on Hela’s Denver passage: playback reached approximately 290 seconds, with byte-range support.
 - Every individual file is below 100 MiB; the entire site is below GitHub Pages’ 1 GB published-site limit.
 
-External websites may require sign-in or later change their URLs or access restrictions. The delivery is a standalone static site. GitHub repository and Pages publication details are documented in the README when configured.
+External websites may require sign-in or later change their URLs or access restrictions. The site is stored in the public markc0909/family-history repository. GitHub Pages is configured from main at the repository root; see the README for the website URL and clone instructions.
 
 ## Minnie and George photographs
 

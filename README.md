@@ -2,6 +2,24 @@
 
 A standalone, dependency-free family-history website, prepared for Mark Cohen. The first collection covers Milstein and Lederer of Opalin, with Appelbaum, Alter, Spitalnik, Gilinsky and Slot connections. Earlier written history is credited to **Ethan Cohen**, Mark’s son.
 
+## GitHub repository
+
+Repository: https://github.com/markc0909/family-history
+
+Website: https://markc0909.github.io/family-history/
+
+Pages publishes `main` from the repository root.
+
+To work on the site later from your Code folder:
+
+```sh
+cd ~/Code
+git clone https://github.com/markc0909/family-history.git
+cd family-history
+```
+
+The published site uses the checked-in HTML at the root of `main`. Rebuild after changing the data or generator, then commit and push both the source edits and generated pages. GitHub Pages will publish the updated branch automatically.
+
 ## Open it
 
 Open `index.html` in a browser. Pages, photographs, citations, filters and tree views work without a build step or internet connection. External source websites naturally need internet. For reliable timestamped audio seeking in local preview, run:
