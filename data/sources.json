@@ -110,6 +110,16 @@
     "locator": "Ethan Cohen’s history, p.11; supplied portrait screenshot is also in the asset register"
   },
   {
+    "id": "moishe-portrait",
+    "title": "Moishe Milstein: family portrait",
+    "type": "Family photograph",
+    "note": "Identified by Mark Cohen as Moishe (Moshe) Milstein, Doba’s husband. Supplied as a one-page PDF titled “Zaida Moishe Milstein.pdf”. Photograph date and place are not established.",
+    "url": null,
+    "file": "moishe-milstein-portrait.pdf",
+    "thumb": "moishe-milstein-portrait.jpg",
+    "locator": "Family collection; supplied by Mark Cohen, 19 November 2026"
+  },
+  {
     "id": "moshe-photo",
     "title": "Reverse of Moshe’s photograph",
     "type": "Family photograph",

@@ -453,5 +453,26 @@
     "kind": "unaltered user-supplied SVG brand mark",
     "bytes": 715,
     "sha256": "ff8c956789ab21585685237abef17add2d371fac439e216a744a7db27cc368bc"
+  },
+  {
+    "file": "assets/documents/moishe-milstein-portrait.pdf",
+    "origin": "Family collection, supplied by Mark Cohen as Zaida Moishe Milstein.pdf",
+    "kind": "family original scan",
+    "bytes": 4704330,
+    "sha256": "25a43e52df0e665339bc58041b0da62984249a9a488c67803f368090b18ed0f1"
+  },
+  {
+    "file": "assets/documents/moishe-milstein-portrait.jpg",
+    "origin": "Family collection, supplied by Mark Cohen as Zaida Moishe Milstein.pdf",
+    "kind": "PDF display derivative",
+    "bytes": 495375,
+    "sha256": "dbc2e5a64c3f336b00079a77f2c7633431c9ef2c01a358f6787568175a209144"
+  },
+  {
+    "file": "assets/images/moishe-milstein-portrait.jpg",
+    "origin": "Family collection, supplied by Mark Cohen as Zaida Moishe Milstein.pdf",
+    "kind": "PDF display derivative",
+    "bytes": 495375,
+    "sha256": "dbc2e5a64c3f336b00079a77f2c7633431c9ef2c01a358f6787568175a209144"
   }
 ]

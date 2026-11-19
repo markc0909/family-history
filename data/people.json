@@ -69,13 +69,16 @@
       "ben1",
       "minnie1",
       "morris",
-      "moshe-photo"
+      "moshe-photo",
+      "moishe-portrait"
     ],
     "group": "Milstein",
     "facts": [
       "The candidate death record estimates birth around 1893–1894 from age 41.",
       "The original death date is 5 September; 6 September is registration, and the date in the memorial index."
-    ]
+    ],
+    "photo": "moishe-milstein-portrait.jpg",
+    "photoSource": "moishe-portrait"
   },
   {
     "id": "doba",
