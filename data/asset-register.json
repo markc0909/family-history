@@ -474,5 +474,19 @@
     "kind": "PDF display derivative",
     "bytes": 495375,
     "sha256": "dbc2e5a64c3f336b00079a77f2c7633431c9ef2c01a358f6787568175a209144"
+  },
+  {
+    "file": "assets/documents/mark-milstein-family-tree-2013.pdf",
+    "origin": "Compiled by Mark Milstein (Ben’s son); supplied by Mark Cohen as Milstein_full.pdf",
+    "kind": "family original PDF",
+    "bytes": 2115983,
+    "sha256": "c3e119ba98cbf454674e43b79cf9817743fa01e13e25d23968c85aedd7002fa5"
+  },
+  {
+    "file": "assets/images/mark-milstein-family-tree-2013.jpg",
+    "origin": "Compiled by Mark Milstein (Ben’s son); supplied by Mark Cohen as Milstein_full.pdf",
+    "kind": "PDF overview derivative",
+    "bytes": 85181,
+    "sha256": "50f4812303f8556362dd8c20ce0baec9dd1a25878116672fb95191f63db09307"
   }
 ]
