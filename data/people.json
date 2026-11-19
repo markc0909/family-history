@@ -1,0 +1,649 @@
+[
+  {
+    "id": "israel-milstein",
+    "name": "Yisroel Milstein",
+    "aliases": "Israel · Srulke",
+    "dates": "Dates unknown",
+    "status": "Family testimony",
+    "summary": "Minnie’s paternal grandfather, married to Zisel. Documentary parentage for Chaya Dwora supplies matching Israel/Zissel names.",
+    "refs": [
+      "minnie1",
+      "minnie2",
+      "chaya"
+    ],
+    "group": "Milstein",
+    "facts": []
+  },
+  {
+    "id": "zisel",
+    "name": "Zisel",
+    "aliases": "Zissel · Zysl",
+    "dates": "Dates unknown",
+    "status": "Family testimony",
+    "summary": "Minnie’s paternal grandmother. Minnie recalls her living with Israel Alter’s mother across the Bug. Maiden surname not established.",
+    "refs": [
+      "minnie1",
+      "minnie2",
+      "chaya"
+    ],
+    "group": "Milstein",
+    "facts": []
+  },
+  {
+    "id": "leibish",
+    "name": "Leibish Milstein",
+    "aliases": "Chaim Leibish · Leib",
+    "dates": "Dates unknown",
+    "status": "Family testimony",
+    "summary": "Father of Moshe, Nutke and Minnie; husband of Chaya Appelbaum. Minnie supplies his names and siblings.",
+    "refs": [
+      "minnie1",
+      "minnie2",
+      "minnie-grave"
+    ],
+    "group": "Milstein",
+    "facts": []
+  },
+  {
+    "id": "chaya-appelbaum",
+    "name": "Chaya Appelbaum",
+    "aliases": "Chaya Milstein",
+    "dates": "Dates unknown",
+    "status": "Family testimony",
+    "summary": "Minnie’s mother and Moshe’s mother in the working tree; daughter of Zalman. Her parents and village require records.",
+    "refs": [
+      "minnie1",
+      "minnie2"
+    ],
+    "group": "Appelbaum",
+    "facts": []
+  },
+  {
+    "id": "moshe",
+    "name": "Moshe Milstein",
+    "aliases": "Moishe · Moses · candidate Morris Millstein",
+    "dates": "Death candidate: 5 September 1935",
+    "status": "Strong identification",
+    "summary": "Doba’s first husband; father of Arke, Riva, Ben and Philip. Went to South Africa before them, around 1929 in the tapes. The Morris certificate is a strong match, not a completed proof.",
+    "refs": [
+      "ben1",
+      "minnie1",
+      "morris",
+      "moshe-photo"
+    ],
+    "group": "Milstein",
+    "facts": [
+      "The candidate death record estimates birth around 1893–1894 from age 41.",
+      "The original death date is 5 September; 6 September is registration, and the date in the memorial index."
+    ]
+  },
+  {
+    "id": "doba",
+    "name": "Doba Lederer",
+    "aliases": "Doba Milsztejn · Milstein · later Slot · Boba / Bobba",
+    "dates": "1895–7 February 1977",
+    "status": "Documented",
+    "summary": "Born in Opalin; travelled with three children in 1934. After Moshe’s death, relatives recall her work and determination to keep the family together. Later married Isaac Slot.",
+    "refs": [
+      "passport",
+      "manifest",
+      "burials",
+      "doba-estate",
+      "ben2"
+    ],
+    "group": "Lederer",
+    "facts": [
+      "Estate reference 2783/77; the full estate is outstanding.",
+      "Passport birth year 1895 differs from the age 38 in the 1934 manifest."
+    ]
+  },
+  {
+    "id": "aron",
+    "name": "Aron Milstein",
+    "aliases": "Aaron · Arke",
+    "dates": "Died 19 February 1977",
+    "status": "Strong identification",
+    "summary": "The eldest child, explicitly named by Ben. Travelled ahead of Doba’s party. Family accounts describe long-term residential care; the institution and clinical history have not been established.",
+    "refs": [
+      "ben1",
+      "minnie1",
+      "aron-grave",
+      "mark",
+      "recent"
+    ],
+    "group": "Milstein",
+    "facts": [
+      "The burial date is 20 February 1977, H 2215.",
+      "His death and Doba’s are twelve days apart, despite remembered intervals of ten or eleven."
+    ]
+  },
+  {
+    "id": "riva",
+    "name": "Riva Gilinsky",
+    "aliases": "Rywka / Rivka Milstein · Milsztejn · Masie",
+    "dates": "19 November 1919–2015",
+    "status": "Documented",
+    "summary": "Doba and Moshe’s daughter; later wife of Max (Mackie) Gilinsky. The identification card records her birth and ship arrival. Masie is a family nickname confirmed by Mark.",
+    "refs": [
+      "riva-id",
+      "passport",
+      "manifest",
+      "ethan",
+      "mark",
+      "riva-wedding",
+      "riva-max-mark-wedding",
+      "school-scan-14",
+      "school-scan-12"
+    ],
+    "group": "Milstein",
+    "facts": [
+      "The 1934 manifest lists Rywka aged 14. The remembered age 16 on arrival conflicts with the card and manifest.",
+      "The death year 2015 is from Ethan’s earlier tree, not a civil death record inspected here.",
+      "Ethan describes family hospitality, synagogue life and shared meals in Emmarentia."
+    ],
+    "photo": "riva-wedding.jpg",
+    "photoSource": "riva-wedding"
+  },
+  {
+    "id": "ben",
+    "name": "Ben Milstein",
+    "aliases": "Saul · Szul-Beniamin · Binyomin / Benjamin",
+    "dates": "Age 11 in September 1934; deceased",
+    "status": "Documented",
+    "summary": "One of the three accompanying children. His interviews name the siblings and describe the journey, his father’s death, engineering work and life in Israel. Mark confirms Ben and his wife have died; dates remain unverified here.",
+    "refs": [
+      "passport",
+      "manifest",
+      "ben1",
+      "ben2",
+      "mark",
+      "business"
+    ],
+    "group": "Milstein",
+    "facts": []
+  },
+  {
+    "id": "philip",
+    "name": "Philip Milstein",
+    "aliases": "Pinchas · Pinchus · Pinchas / Philip",
+    "dates": "Age 7 in September 1934; deceased",
+    "status": "Documented",
+    "summary": "Youngest child on Doba’s passport and manifest. The group tapes preserve his childhood recollections, although a complete speaker map is not established. Mark confirms Philip and his wife have died.",
+    "refs": [
+      "passport",
+      "manifest",
+      "opalin1",
+      "opalin2",
+      "mark",
+      "business"
+    ],
+    "group": "Milstein",
+    "facts": []
+  },
+  {
+    "id": "nutke",
+    "name": "Nutke Milstein",
+    "aliases": "Formal given name unknown",
+    "dates": "Remembered killed in the Holocaust",
+    "status": "Family testimony",
+    "summary": "Moshe’s brother, Minnie’s brother and Riva’s uncle. A portrait survives. No secure individual victim record or exact death place/date has been found.",
+    "refs": [
+      "nutke-photo",
+      "minnie1",
+      "ethan"
+    ],
+    "group": "Milstein",
+    "facts": [
+      "Do not assume his formal name was Natan merely because a search expands the nickname.",
+      "A separate maternal uncle Nutke Appelbaum appears in Minnie’s account."
+    ]
+  },
+  {
+    "id": "minnie",
+    "name": "Minnie Spitalnik",
+    "aliases": "Menucha · candidate Mina Milstein",
+    "dates": "About 1912–1913?–2 August 1997",
+    "status": "Strong identification",
+    "summary": "Moshe’s younger sister, rather than Doba’s Lederer sister. Her recordings preserve much of the earlier family. A 1937 Mina Milstein–Elias Spitalnik marriage is a strong match.",
+    "refs": [
+      "minnie1",
+      "minnie2",
+      "mina-marriage",
+      "minnie-grave",
+      "minnie-portrait",
+      "minnie-george"
+    ],
+    "group": "Milstein",
+    "facts": [
+      "The gravestone gives Menucha daughter of Leib.",
+      "Arrival in 1936 is a recollection; a 1956 naturalisation/immigration index is not evidence of arrival that year."
+    ],
+    "photo": "minnie-portrait.jpg",
+    "photoSource": "minnie-portrait"
+  },
+  {
+    "id": "elias",
+    "name": "George Spitalnik",
+    "aliases": "George · candidate civil name Elias · filename label Eltzik",
+    "dates": "35 at marriage in 1937",
+    "status": "Strong identification",
+    "summary": "Mark identifies Minnie’s husband as George and supplies their photograph together, confirming George as a family-used name. The strong 1937 marriage candidate calls the groom Elias Spitalnik, a Lithuania-born tailor. A further link is needed to establish whether George and Elias were names of the same man.",
+    "refs": [
+      "mina-marriage",
+      "minnie2",
+      "minnie-george"
+    ],
+    "group": "Spitalnik",
+    "facts": [],
+    "photo": "minnie-george.jpg",
+    "photoSource": "minnie-george"
+  },
+  {
+    "id": "max",
+    "name": "Max Gilinsky",
+    "aliases": "Mackie",
+    "dates": "1910–2000 (earlier family tree)",
+    "status": "Family history",
+    "summary": "Riva’s husband. Ethan’s account describes Benoni birth, upbringing in Upington and later Johannesburg life; these details have not been joined to civil records here.",
+    "refs": [
+      "ethan",
+      "recent",
+      "riva-max-mark-wedding"
+    ],
+    "group": "Gilinsky",
+    "facts": [],
+    "photo": "riva-max-mark-wedding.jpg",
+    "photoSource": "riva-max-mark-wedding"
+  },
+  {
+    "id": "aron-lederer",
+    "name": "Aron Lederer",
+    "aliases": "Aron",
+    "dates": "Dates unknown",
+    "status": "Unverified lead",
+    "summary": "Listed as Doba’s father in Ethan’s earlier Ancestry tree. No inspected parentage record confirms this.",
+    "refs": [
+      "ethan"
+    ],
+    "group": "Lederer",
+    "facts": []
+  },
+  {
+    "id": "finkel",
+    "name": "Finkel",
+    "aliases": "Full name and meaning of entry uncertain",
+    "dates": "Dates unknown",
+    "status": "Unverified lead",
+    "summary": "Shown beside Aron Lederer as Doba’s mother in the earlier tree. Do not assume Finkel is a verified maiden surname.",
+    "refs": [
+      "ethan"
+    ],
+    "group": "Lederer",
+    "facts": []
+  },
+  {
+    "id": "binyomin",
+    "name": "Binyomin Lederer",
+    "aliases": "Beniamin · Benjamin",
+    "dates": "Died about 1920 (recollection)",
+    "status": "Strong identification",
+    "summary": "Hela’s father is Binyomin in her burial patronymic. She says her father was Doba’s brother. Beniamin and Yosefa are named parents in the sister testimonies.",
+    "refs": [
+      "hela2",
+      "burials",
+      "freida",
+      "yosefa"
+    ],
+    "group": "Lederer",
+    "facts": []
+  },
+  {
+    "id": "yosefa",
+    "name": "Yosefa Lederer",
+    "aliases": "Jospa",
+    "dates": "Age 45 in testimony; no dated birth",
+    "status": "Strong identification",
+    "summary": "Strong candidate for Hela’s mother. Her original testimony lists three children, matching Hela’s household. Parents Eliezer and Chaya; sister Brakha Berland.",
+    "refs": [
+      "yosefa",
+      "hela2"
+    ],
+    "group": "Lederer",
+    "facts": [
+      "Possible handwritten widow conflicts with the index’s married: reading provisional.",
+      "Do not turn age 45 into a birth year without a dated event."
+    ]
+  },
+  {
+    "id": "hela",
+    "name": "Hela Lederer",
+    "aliases": "Chaya Rivka bas Binyomin",
+    "dates": "1912 (recollection)–26 November 2004",
+    "status": "Strong identification",
+    "summary": "Doba’s niece and Riva’s cousin. Moved from Opalin to her uncle Mendel’s Warsaw household at twelve; later married Harry and joined him in southern Africa.",
+    "refs": [
+      "hela2",
+      "hela1",
+      "burials"
+    ],
+    "group": "Lederer",
+    "facts": []
+  },
+  {
+    "id": "harry",
+    "name": "Harry Lederer",
+    "aliases": "Harry",
+    "dates": "1904 (recollection)–22 January 1985",
+    "status": "Strong identification",
+    "summary": "Opalin-born builder in Hela’s account; left for South Africa in 1936 and moved to Bulawayo in 1937. Exact degree of any relationship to Hela before marriage is not established.",
+    "refs": [
+      "hela2",
+      "hela1",
+      "burials"
+    ],
+    "group": "Lederer",
+    "facts": []
+  },
+  {
+    "id": "frida",
+    "name": "Frida / Freida Lederer",
+    "aliases": "Freida",
+    "dates": "No secure dates",
+    "status": "Strong identification",
+    "summary": "Hela names a sister Frida. The Opalin testimony names parents Beniamin/Yosefa and husband Eliahu, with aunt Berka Berland as submitter. Strong candidate, not an explicit Hela sibling record.",
+    "refs": [
+      "hela2",
+      "freida"
+    ],
+    "group": "Lederer",
+    "facts": []
+  },
+  {
+    "id": "nechama",
+    "name": "Nechama? / Chuma?",
+    "aliases": "Tape: Nechama; testimony: Chuma / Khuma",
+    "dates": "No secure dates",
+    "status": "Unresolved",
+    "summary": "Hela’s other sister is transcribed Nechama. Chuma’s testimony has matching parents and place, husband Tzvi, married surname unknown. The two names have not been proved to identify one woman.",
+    "refs": [
+      "hela2",
+      "chuma"
+    ],
+    "group": "Lederer",
+    "facts": []
+  },
+  {
+    "id": "mendel",
+    "name": "Mendel Lederer",
+    "aliases": "Warsaw baker",
+    "dates": "Born 1880 in one testimony; 1885 in another",
+    "status": "Strong identification",
+    "summary": "Hela’s uncle and a strong candidate for the Ogrodowa 24 baker. The two testimony records differ in birth year, occupation and death place and remain unmerged.",
+    "refs": [
+      "hela2",
+      "opalin1",
+      "directory",
+      "mendel-a",
+      "mendel-b"
+    ],
+    "group": "Lederer",
+    "facts": []
+  },
+  {
+    "id": "pesl",
+    "name": "Pesl Sosne / Sosna",
+    "aliases": "Born Lederer",
+    "dates": "No secure dates",
+    "status": "Unverified lead",
+    "summary": "Testimony: Opalin-born, husband Asher, daughter Ana Roiter. Minnie’s Sosna/Reuter recollections make this worth pursuing; the link to Doba is still unproved.",
+    "refs": [
+      "pesl",
+      "minnie1",
+      "minnie2"
+    ],
+    "group": "Lederer",
+    "facts": []
+  },
+  {
+    "id": "emma",
+    "name": "Emma Ray?",
+    "aliases": "Surname is an uncertain transcription",
+    "dates": "Lived in Denver; dates unknown",
+    "status": "Unverified lead",
+    "summary": "Hela’s maternal aunt, not automatically a Lederer. Sent money and clothing after Hela’s father’s death. Her husband delivered coal.",
+    "refs": [
+      "hela2"
+    ],
+    "group": "Maternal lead",
+    "facts": []
+  },
+  {
+    "id": "brakha",
+    "name": "Brakha Berland",
+    "aliases": "Berka · indexed David variant",
+    "dates": "Dates unknown",
+    "status": "Documented",
+    "summary": "Submitter identified as Yosefa’s sister and the aunt of the women in the sister testimonies. A 29-result submitter-name search found no further explicit Hela or Doba link.",
+    "refs": [
+      "yosefa",
+      "freida",
+      "chuma"
+    ],
+    "group": "Maternal lead",
+    "facts": []
+  },
+  {
+    "id": "chaya-alter",
+    "name": "Chaya Dwora Alter",
+    "aliases": "Chaya Dvora · born Milshtein",
+    "dates": "1882–1941 (testimony)",
+    "status": "Strong identification",
+    "summary": "Opalin-born, parents Israel and Zissel, husband Naftali. Strong converging case for Leibish’s sister and Israel Alter’s mother; the exact aunt-name on Minnie’s tape remains uncertain.",
+    "refs": [
+      "chaya",
+      "alter-memoir",
+      "minnie1"
+    ],
+    "group": "Alter",
+    "facts": []
+  },
+  {
+    "id": "naftali-elder",
+    "name": "Naftali Alter",
+    "aliases": "Naphtali",
+    "dates": "Dates unknown",
+    "status": "Documented",
+    "summary": "Named as Chaya Dwora’s husband in her testimony. Same-name Dorohusk victim records have not been assigned to him.",
+    "refs": [
+      "chaya"
+    ],
+    "group": "Alter",
+    "facts": []
+  },
+  {
+    "id": "israel-alter",
+    "name": "Israel Alter",
+    "aliases": "Yisrael Alter",
+    "dates": "Arrived Palestine in 1936, aged 20 (memoir)",
+    "status": "Strong identification",
+    "summary": "Mark stayed with him in Tel Aviv in 1986. Strongly identified with the memoirist and filmmaker Naftali’s father. The memoir names his mother Chaya Dvora.",
+    "refs": [
+      "mark",
+      "alter-memoir",
+      "naftali-interview",
+      "minnie1"
+    ],
+    "group": "Alter",
+    "facts": []
+  },
+  {
+    "id": "pnina",
+    "name": "Pnina Alter",
+    "aliases": "Pnina",
+    "dates": "Dates not established here",
+    "status": "Documented",
+    "summary": "Named as Naftali’s mother and Israel’s wife in the published interview; born Łódź in that account.",
+    "refs": [
+      "naftali-interview"
+    ],
+    "group": "Alter",
+    "facts": []
+  },
+  {
+    "id": "naftali-film",
+    "name": "Naftali Alter",
+    "aliases": "Filmmaker",
+    "dates": "Born 1947, Tel Aviv",
+    "status": "Documented",
+    "summary": "Public professional identity confirmed by the Israel Film Archive; the interview names Israel and Pnina as parents. Proposed second cousin of Riva through the qualified older Milstein link.",
+    "refs": [
+      "naftali-bio",
+      "naftali-interview",
+      "chaya",
+      "minnie1"
+    ],
+    "group": "Alter",
+    "facts": []
+  },
+  {
+    "id": "liba-malka",
+    "name": "Liba Malka",
+    "aliases": "Married surname unknown",
+    "dates": "Dates unknown",
+    "status": "Family testimony",
+    "summary": "Another daughter of Yisroel and Zisel in Minnie’s account. No secure married name or civil record yet.",
+    "refs": [
+      "minnie1"
+    ],
+    "group": "Milstein",
+    "facts": []
+  },
+  {
+    "id": "moshe-uncle",
+    "name": "Moshe Milstein, older generation",
+    "aliases": "Shochet in Galicia",
+    "dates": "Dates unknown",
+    "status": "Family testimony",
+    "summary": "Leibish’s brother, distinct from Doba’s husband Moshe.",
+    "refs": [
+      "minnie2"
+    ],
+    "group": "Milstein",
+    "facts": []
+  },
+  {
+    "id": "david",
+    "name": "David Milstein",
+    "aliases": "David",
+    "dates": "Dates unknown",
+    "status": "Family testimony",
+    "summary": "Leibish’s brother in Minnie’s account.",
+    "refs": [
+      "minnie2"
+    ],
+    "group": "Milstein",
+    "facts": []
+  },
+  {
+    "id": "zalman",
+    "name": "Zalman Appelbaum",
+    "aliases": "Zalman",
+    "dates": "Dates unknown",
+    "status": "Family testimony",
+    "summary": "Chaya Appelbaum’s father. Minnie names his parents approximately Leibu and Rochel; she tentatively gives his wife’s name as Rochel too.",
+    "refs": [
+      "minnie2"
+    ],
+    "group": "Appelbaum",
+    "facts": []
+  },
+  {
+    "id": "isaac",
+    "name": "Isaac Slot",
+    "aliases": "Isaac G. Slot in earlier tree",
+    "dates": "26 July 1952 death; 1887 birth unverified",
+    "status": "Documented",
+    "summary": "Doba’s second husband and stepfather of the Milstein children. A candidate earlier household names wife Annie and three children. The later marriage record and full estate are outstanding.",
+    "refs": [
+      "isaac-grave",
+      "ben2",
+      "opalin2",
+      "isaac-estate",
+      "annie",
+      "ethan"
+    ],
+    "group": "Slot",
+    "facts": []
+  },
+  {
+    "id": "annie",
+    "name": "Annie Slot",
+    "aliases": "Born Camberg",
+    "dates": "About 1887–1888?–4 August 1941",
+    "status": "Unverified lead",
+    "summary": "Edinburgh-born, father Gerson Camberg, married to an Isaac Slot described as estate agent. Candidate earlier household of Doba’s later husband.",
+    "refs": [
+      "annie"
+    ],
+    "group": "Slot",
+    "facts": []
+  },
+  {
+    "id": "paul",
+    "name": "Paul Slot",
+    "aliases": "Paul Pesach in earlier tree",
+    "dates": "1919–2008 (earlier tree only)",
+    "status": "Family history",
+    "summary": "Remembered Slot stepfamily member; Paul appears in the Annie notice. The identification is plausible but not yet fully joined across records.",
+    "refs": [
+      "mark",
+      "recent",
+      "annie",
+      "ethan"
+    ],
+    "group": "Slot",
+    "facts": []
+  },
+  {
+    "id": "nick",
+    "name": "Nick Slot",
+    "aliases": "Leslie (Nick) in Ethan’s earlier tree",
+    "dates": "1923–2002 (earlier tree only)",
+    "status": "Unresolved",
+    "summary": "Ben remembers an unmarried son Nick. Ethan’s tree calls Leslie Nick; Annie’s notice names Leslie, born 16 May 1923. This is a useful fit, not yet a proved alias.",
+    "refs": [
+      "ben2",
+      "ethan",
+      "annie"
+    ],
+    "group": "Slot",
+    "facts": []
+  },
+  {
+    "id": "hayme",
+    "name": "Hayme / Hymie Slot?",
+    "aliases": "Helman C. may be a duplicate in the old tree",
+    "dates": "1917–1981 (earlier tree only)",
+    "status": "Unresolved",
+    "summary": "The original notice’s Hayme reading is provisional. Ethan’s tree shows both Helman C. and Hymie with identical 1917–1981 dates; do not count them as two confirmed children or identify a sister from these entries.",
+    "refs": [
+      "annie",
+      "ethan"
+    ],
+    "group": "Slot",
+    "facts": []
+  },
+  {
+    "id": "phyllis",
+    "name": "Phyllis",
+    "aliases": "Daughter of Hela and Harry",
+    "dates": "Born 9 October 1935 (recollection)",
+    "status": "Family testimony",
+    "summary": "Hela supplies her daughter’s birth date and describes their June 1938 voyage to join Harry. A manifest and civil birth record remain to be checked.",
+    "refs": [
+      "hela2"
+    ],
+    "group": "Lederer",
+    "facts": []
+  }
+]

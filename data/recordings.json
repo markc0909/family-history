@@ -1,0 +1,98 @@
+[
+  {
+    "id": "hela2",
+    "title": "Hela Lederer Tape 1 - 2",
+    "duration": "46:17",
+    "note": "Introductory interview, apparently 23 March 1999. Opalin, family, Warsaw and migration. Listen before Tape 1 - 1.",
+    "seconds": 2778,
+    "file": "assets/audio/hela2.mp3"
+  },
+  {
+    "id": "hela1",
+    "title": "Hela Lederer Tape 1 - 1",
+    "duration": "16:44",
+    "note": "Continuation: Bulawayo homes, Harry\u2019s work, family life and Johannesburg.",
+    "seconds": 1005,
+    "file": "assets/audio/hela1.mp3"
+  },
+  {
+    "id": "opalin1",
+    "title": "Talking of Opalin - 1",
+    "duration": "32:35",
+    "note": "Group memories: market, school, stove, ferry, journey. Riva appears to be addressed; speaker map unverified.",
+    "seconds": 1956,
+    "file": "assets/audio/opalin1.mp3"
+  },
+  {
+    "id": "opalin2",
+    "title": "Talking of Opalin - 2",
+    "duration": "18:55",
+    "note": "Johannesburg, Mayfair, Greenside and Isaac Slot.",
+    "seconds": 1135,
+    "file": "assets/audio/opalin2.mp3"
+  },
+  {
+    "id": "minnie1",
+    "title": "Minnie Spitalnik - 1",
+    "duration": "45:18",
+    "note": "Paternal family, Moshe, Nutke, Arke, migration and family support.",
+    "seconds": 2718,
+    "file": "assets/audio/minnie1.mp3"
+  },
+  {
+    "id": "minnie2",
+    "title": "Minnie Spitalnik - 2",
+    "duration": "45:10",
+    "note": "Appelbaum ancestry, Leibish, Lederer relatives, Opalin economy.",
+    "seconds": 2711,
+    "file": "assets/audio/minnie2.mp3"
+  },
+  {
+    "id": "ben1",
+    "title": "uncle ben interview - 1",
+    "duration": "93:49",
+    "note": "Explicitly names Aaron/Arke, Riva, Ben, Philip and their parents; migration and work.",
+    "seconds": 5629,
+    "file": "assets/audio/ben1.mp3"
+  },
+  {
+    "id": "ben2",
+    "title": "uncle ben interview - 2",
+    "duration": "48:36",
+    "note": "Germiston arrival, stepfamily, later life; explicitly dated 11 August 2011 in the recording.",
+    "seconds": 2917,
+    "file": "assets/audio/ben2.mp3"
+  },
+  {
+    "id": "pb1",
+    "title": "Philip and Ben - Side 1",
+    "duration": "20:36",
+    "note": "Apparent alternate copy of Talking of Opalin - 2.",
+    "seconds": 1236,
+    "file": "assets/audio/pb1.mp3"
+  },
+  {
+    "id": "pb2",
+    "title": "Philip and Ben - Side 2",
+    "duration": "30:41",
+    "note": "Apparent alternate copy of Talking of Opalin - 1.",
+    "seconds": 1841,
+    "file": "assets/audio/pb2.mp3"
+  },
+  {
+    "id": "pb21",
+    "title": "Philip and Ben Tape 2 - Side 1",
+    "duration": "30:08",
+    "note": "Apparent alternate copy of Talking of Opalin - 1; same sequence, different timestamps.",
+    "seconds": 1809,
+    "file": "assets/audio/pb21.mp3"
+  },
+  {
+    "id": "pb22",
+    "title": "Philip and Ben Tape 2 - Side 2",
+    "duration": "19:37",
+    "note": "Apparent alternate copy of Talking of Opalin - 2; same sequence, different timestamps.",
+    "seconds": 1177,
+    "file": "assets/audio/pb22.mp3"
+  }
+]

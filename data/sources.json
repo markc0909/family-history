@@ -1,0 +1,642 @@
+[
+  {
+    "id": "passport",
+    "title": "Doba Milsztejn’s Polish passport",
+    "type": "Family document",
+    "note": "Born 1895, birthplace and residence Opalin; three accompanying children: Rywka, Szul-Beniamin and Pinchas. The photo and title pages are supplied scans.",
+    "url": null,
+    "file": "doba-passport-family.jpg",
+    "thumb": "doba-passport-family.jpg",
+    "locator": "Description, photograph and children pages; passport series I, no. 354856"
+  },
+  {
+    "id": "passport-title",
+    "title": "Passport identity and residence page",
+    "type": "Family document",
+    "note": "Doba Milsztejn, resident in Opalin; three children. See the accompanying photograph page.",
+    "url": null,
+    "file": "doba-passport-title.jpg",
+    "thumb": "doba-passport-title.jpg",
+    "locator": null
+  },
+  {
+    "id": "visa",
+    "title": "South African settlement visa",
+    "type": "Family document",
+    "note": "British Passport Office, Warsaw, 21 August 1934. This is a visa, not evidence of the date of arrival in South Africa. The adjoining stamps concern the European journey.",
+    "url": null,
+    "file": "passport-south-africa-visa.jpeg",
+    "thumb": "passport-south-africa-visa.jpg",
+    "locator": "Passport pages 18–19"
+  },
+  {
+    "id": "transit",
+    "title": "German transit visa",
+    "type": "Family document",
+    "note": "Warsaw, 3 September 1934. Permission for passage through Germany; it is not a German permit to emigrate from Poland.",
+    "url": null,
+    "file": "passport-german-transit.jpeg",
+    "thumb": "passport-german-transit.jpg",
+    "locator": "Passport page 21"
+  },
+  {
+    "id": "exit",
+    "title": "Polish border-control stamp",
+    "type": "Family document",
+    "note": "Departure stamp at Zbąszyń, 6 September 1934. The low-resolution scan limits finer reading.",
+    "url": null,
+    "file": "passport-polish-exit.jpg",
+    "thumb": "passport-polish-exit.jpg",
+    "locator": "Passport page 5"
+  },
+  {
+    "id": "observations",
+    "title": "Passport observations and emigration approval",
+    "type": "Family document",
+    "note": "Passport valid for one journey abroad; Warsaw emigration-inspector stamp, 1 September 1934.",
+    "url": null,
+    "file": "passport-observations.jpeg",
+    "thumb": "passport-observations.jpg",
+    "locator": "Passport page 7"
+  },
+  {
+    "id": "cancelled",
+    "title": "Cancelled visa page",
+    "type": "Family document",
+    "note": "An uncompleted South Africa visa form marked cancelled. Do not mistake it for the completed settlement visa.",
+    "url": null,
+    "file": "passport-cancelled-visa.jpg",
+    "thumb": "passport-cancelled-visa.jpg",
+    "locator": "Passport page 15"
+  },
+  {
+    "id": "manifest",
+    "title": "Gloucester Castle passenger manifest, 1934",
+    "type": "Archive scan",
+    "note": "London departure, 13 September 1934; Union-Castle line. Doba and the three children contracted to land at Cape Town. The ship’s overall destination is entered as Beira. Ages: 38, 14, 11 and 7.",
+    "url": "https://discovery.nationalarchives.gov.uk/",
+    "file": "manifest-1934.jpg",
+    "thumb": "manifest-1934.jpg",
+    "locator": "The National Archives, BT27/1400; P.M.25, alien passengers; digitised by Findmypast; family-supplied scan"
+  },
+  {
+    "id": "riva-id",
+    "title": "Rywka Milsztejn identification card",
+    "type": "Family document",
+    "note": "An identification card, not a passport. Birth: 19 November 1919. The ship and date entry reads Gloucester Castle, 7 October 1934. This places her below fifteen on arrival.",
+    "url": null,
+    "file": "riva-id-1934-0.jpg",
+    "thumb": "riva-id-1934-0.jpg",
+    "locator": "Ethan Cohen’s family history, p.14; embedded scan extracted unchanged"
+  },
+  {
+    "id": "school",
+    "title": "Opalin school photograph",
+    "type": "Family photograph",
+    "note": "Mark tentatively identifies Riva in the front row, second from the right, holding flowers. The identification and date are not independently verified.",
+    "url": null,
+    "file": "opalin-school.png",
+    "thumb": "opalin-school.jpg",
+    "locator": null
+  },
+  {
+    "id": "nutke-photo",
+    "title": "Nutke: portrait and handwritten reverse",
+    "type": "Family photograph",
+    "note": "Family identification: Nutke Milstein, Moshe’s brother and Riva’s uncle. His formal given name and individual death record remain unknown. The handwriting has not received a verified full translation.",
+    "url": null,
+    "file": "nutke-from-ethan-0.jpg",
+    "thumb": "nutke-from-ethan-0.jpg",
+    "locator": "Ethan Cohen’s history, p.11; supplied portrait screenshot is also in the asset register"
+  },
+  {
+    "id": "moshe-photo",
+    "title": "Reverse of Moshe’s photograph",
+    "type": "Family photograph",
+    "note": "Identified by Mark as Moshe Milstein, Doba’s husband. Opalin and a date apparently in 1935 are visible; the dedication and precise day/month need expert reading.",
+    "url": null,
+    "file": "moshe-photo-inscription.png",
+    "thumb": "moshe-photo-inscription.jpg",
+    "locator": null
+  },
+  {
+    "id": "ethan",
+    "title": "Riva Gilinsky — Ethan Cohen’s family history",
+    "type": "Family history",
+    "note": "Undated, 15 pages. Authored by Ethan, Mark’s son. First-person relationships refer to Ethan. Includes an Ancestry tree, family photographs and early research; superseded details are discussed on this site.",
+    "url": null,
+    "file": "ethan-riva-history.pdf",
+    "thumb": null,
+    "locator": "Especially pp.1, 6–14; treat as a secondary family compilation"
+  },
+  {
+    "id": "morris",
+    "title": "Morris Millstein death certificate, 1935",
+    "type": "Civil record",
+    "note": "Registration 6091: died 5 September 1935, Johannesburg Hospital; registered 6 September. Age 41, married, Poland-born vegetable hawker; 31 Bezuidenhout Street, Troyeville. Ulcer surgery and haemorrhage fit the testimony, but the record does not name Doba or parents.",
+    "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9BY-L3PQ-F",
+    "file": "morris-death-1935.png",
+    "thumb": "morris-death-1935.jpg",
+    "locator": "Image 3109 of 3222; index 742P-426Z. Local copy is a browser screenshot, not a full-resolution original."
+  },
+  {
+    "id": "mina-marriage",
+    "title": "Mina Milstein and Elias Spitalnik, 1937",
+    "type": "Civil record",
+    "note": "Johannesburg certificate 1322, 11 August 1937: Mina, 24, Poland-born; Elias, 35, Lithuania-born tailor. Mina’s address matches Morris’s 1935 address. Strong candidate for Minnie; parents not named.",
+    "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS23-1SBD-5",
+    "file": "mina-marriage-1937.png",
+    "thumb": "mina-marriage-1937.jpg",
+    "locator": "Image 1159 of 2946, image group 008161332; index 6ZC9-N33R. Saved browser screenshot."
+  },
+  {
+    "id": "aron-grave",
+    "title": "Aron Milstein gravestone",
+    "type": "Burial record",
+    "note": "Death 19 February 1977; Hebrew patronymic identifies father Moshe. Burial register: 20 February, H 2215. Strong match to Arke through the tapes.",
+    "url": "https://media.jhbchev.co.za/grave-images/H/H-2215-001.jpg",
+    "file": "aron-grave-original.jpg",
+    "thumb": null,
+    "locator": "Johannesburg Chevrah Kadisha, H 2215"
+  },
+  {
+    "id": "minnie-grave",
+    "title": "Minnie Spitalnik gravestone",
+    "type": "Burial record",
+    "note": "Died 2 August 1997; Menucha daughter of Leib. Burial 4 August 1997, U 818 Ext D.",
+    "url": "https://media.jhbchev.co.za/grave-images/U/U-818-D-001.jpg",
+    "file": "minnie-grave.jpg",
+    "thumb": "minnie-grave.jpg",
+    "locator": null
+  },
+  {
+    "id": "isaac-grave",
+    "title": "Isaac Slot gravestone",
+    "type": "Burial record",
+    "note": "Died 26 July 1952; burial register gives 31 July, B 347. The stone does not individually name his children or establish Bulawayo as his death place.",
+    "url": "https://media.jhbchev.co.za/grave-images/B/B-347-001.jpg",
+    "file": "isaac-slot-grave.jpg",
+    "thumb": "isaac-slot-grave.jpg",
+    "locator": null
+  },
+  {
+    "id": "burials",
+    "title": "Johannesburg Chevrah Kadisha burial search",
+    "type": "Burial register",
+    "note": "Live surname searches recorded 18–19 November 2026: Doba, Aron, Minnie, Isaac, Hela and Harry. Hela: Chaya Rivka bas Binyomin, 26 November 2004, E1025 Ext D; Harry: 22 January 1985, adjacent E1025 Ext C. Re-run surname searches; no persistent individual result URLs.",
+    "url": "https://jhbchev.co.za/search-graves/",
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "morris-memorial",
+    "title": "Morris Millstein memorial index",
+    "type": "Memorial index",
+    "note": "Westpark Jewish section, 1894–6 September 1935. No photograph, individual grave number or named relatives was found. Its date differs from the civil death date; it is not a gravestone reading.",
+    "url": "https://www.findagrave.com/memorial/243476774/morris-millstein",
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "directory",
+    "title": "Mendel Lederer’s Warsaw bakery, 1928",
+    "type": "Contemporary directory",
+    "note": "Księga adresowa Polski: Lederer Mendel, Ogrodowa 24, under Piekarnie / Boulangers. The year is 1928; 1918 is the printed page number.",
+    "url": "https://kresy.genealodzy.pl/zbior/pdf/pam_kniga/1928_ks_adres_warszawa_cz_II.pdf",
+    "file": "warsaw-directory-1928-original.pdf",
+    "thumb": "warsaw-directory-page.jpg",
+    "locator": "Printed p.1918, PDF p.60. A short extract is also bundled.",
+    "additional": [
+      {
+        "file": "warsaw-directory-extract.pdf",
+        "label": "Relevant directory extract"
+      }
+    ]
+  },
+  {
+    "id": "mendel-a",
+    "title": "Mendel Lederer: baker testimony",
+    "type": "Page of Testimony",
+    "note": "Born 1880 in Opalin, baker, wife Riva; Warsaw before and during the war, death place entered Warsaw ghetto. Submitter Doba Kam, sister-in-law. She has not been identified as Doba Slot.",
+    "url": "https://collections.yadvashem.org/en/names/335860",
+    "file": "mendel-335860.png",
+    "thumb": "mendel-335860.jpg",
+    "locator": "Yad Vashem 335860; original form inspected, browser screenshot saved"
+  },
+  {
+    "id": "mendel-b",
+    "title": "Mendel Lederer: second testimony",
+    "type": "Page of Testimony",
+    "note": "Born 1885 in Opalin, merchant, wife Rivka Fuks; Warsaw, then Treblinka, 1942. Submitter Menukha Il, relative. Parent and child fields blank. Possible duplicate of the baker, not merged.",
+    "url": "https://collections.yadvashem.org/en/names/1118855",
+    "file": "mendel-1118855.png",
+    "thumb": "mendel-1118855.jpg",
+    "locator": "Yad Vashem 1118855; original form inspected, screenshot saved"
+  },
+  {
+    "id": "yosefa",
+    "title": "Jospa / Yosefa Lederer testimony",
+    "type": "Page of Testimony",
+    "note": "Włodawa-born, age 45; parents Eliezer and Chaya, husband Beniamin; Opalin residence and death place. Sister Brakha Berland submitted it. The original lists three children; marital handwriting may read widow, whereas the index says married. No death year is supplied. A source-provided scan was also downloaded from the viewer for this edition.",
+    "url": "https://collections.yadvashem.org/en/names/2024866",
+    "file": "yosefa-testimony.png",
+    "thumb": "yosefa-testimony.jpg",
+    "locator": "Yad Vashem 2024866; widow reading remains provisional",
+    "additional": [
+      {
+        "file": "yosefa-source-scan.avif",
+        "label": "Downloaded source-provided scan (AVIF)"
+      }
+    ]
+  },
+  {
+    "id": "freida",
+    "title": "Freida Lederer testimony",
+    "type": "Page of Testimony",
+    "note": "Opalin, parents Beniamin and Yosefa, husband Eliahu. Submitter Berka Berland, aunt. Strong candidate for Hela’s sister Frida, without an explicit Hela link.",
+    "url": "https://collections.yadvashem.org/en/names/1664064",
+    "file": "freida-testimony.png",
+    "thumb": "freida-testimony.jpg",
+    "locator": null
+  },
+  {
+    "id": "chuma",
+    "title": "Chuma / Khuma, born Lederer",
+    "type": "Page of Testimony",
+    "note": "Opalin, parents Beniamin and Yosefa, husband Tzvi, married surname unknown. Submitter Brakha Berland, aunt. Possible Nechama from the tape; not established.",
+    "url": "https://collections.yadvashem.org/en/names/416132",
+    "file": "chuma-testimony.png",
+    "thumb": "chuma-testimony.jpg",
+    "locator": null
+  },
+  {
+    "id": "pesl",
+    "title": "Pesl Sosne / Sosna, born Lederer",
+    "type": "Page of Testimony",
+    "note": "Opalin-born; husband Asher; Maciejow residence and death. Submitted by daughter Ana Roiter. A collateral lead, not yet proved to be Doba’s sister.",
+    "url": "https://collections.yadvashem.org/en/names/1672422",
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "chaya",
+    "title": "Chaya Dwora Alter, born Milshtein",
+    "type": "Page of Testimony",
+    "note": "Born 1882, Opalin; parents Israel and Zissel, husband Naftali. Dorohusk before the war, Maciejow during it; testimony gives death 1941 in Ukraine. Submitted by granddaughter Hadasa Nechushtan.",
+    "url": "https://collections.yadvashem.org/en/names/13465449",
+    "file": "chaya-alter-testimony.png",
+    "thumb": "chaya-alter-testimony.jpg",
+    "locator": "Combined person 13465449; underlying testimony 1867215"
+  },
+  {
+    "id": "alter-memoir",
+    "title": "Yisrael Alter’s Dorohusk memoir",
+    "type": "Published testimony",
+    "note": "Names mother Chaya Dvora and siblings; immigration to Palestine in 1936, aged twenty. The Warsaw police episode connects it strongly to the filmmaker’s father’s account. Return-visit chronology and number of surviving brothers remain discrepant across accounts.",
+    "url": "https://www.jewishgen.org/yizkor/Dubienka/dub164.html",
+    "file": null,
+    "thumb": null,
+    "locator": "Dubienka / Skryhiczyn / Dorohusk memorial book, Dorohusk section, p.169"
+  },
+  {
+    "id": "naftali-interview",
+    "title": "Naftali Alter interviewed by Asaf Nevo",
+    "type": "Published interview",
+    "note": "Israel Hayom, 16 January 2020. Identifies father Israel, plasterer then building contractor, and mother Pnina; recounts the father’s Warsaw incident. The son repeats his father’s account, rather than providing a second eyewitness.",
+    "url": "https://www.israelhayom.co.il/article/725123",
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "naftali-bio",
+    "title": "Naftali Alter — Israel Film Archive",
+    "type": "Institutional biography",
+    "note": "Identifies the filmmaker, born Tel Aviv in 1947. The biography itself does not establish the older Milstein genealogy.",
+    "url": "https://jfc.org.il/official/naftali-alter/",
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "yahad",
+    "title": "Vyshnivka, formerly Opalin — killing-site profile",
+    "type": "Historical research",
+    "note": "Yahad–In Unum gives 2 October 1942, 582 victims, Jewish cemetery, a German unit from Lyuboml assisted by Ukrainian police. Its quoted witness and the linked clip are not safely treated as the same testimony.",
+    "url": "https://www.yahadmap.org/en/#village/vyshnivka-former-opalin-volyn-ukraine.328",
+    "file": null,
+    "thumb": null,
+    "locator": "Profile 328; quoted testimonies 1441/1442; clip reference 1443U"
+  },
+  {
+    "id": "yahad-video",
+    "title": "Opalin witness video 1443U",
+    "type": "Witness interview",
+    "note": "Six-minute public clip, recorded 25 April 2012. English-subtitle review: title says born 1934; witness says ten; estimate 860 victims differs from profile 582. One-shooter claim is attributed to a friend. No family member is named.",
+    "url": "https://www.yahadmap.org/fichier/p_media/8098/media_fichier_U1443_Ukraine_Vyshnivka_1443U.mp4",
+    "file": null,
+    "thumb": null,
+    "locator": "00:02, 00:34, 00:40, 02:56–03:32, 04:36, 05:26–05:34. Link only; full clip not republished."
+  },
+  {
+    "id": "doba-estate",
+    "title": "Doba Slot estate notice, 2783/77",
+    "type": "Government Gazette",
+    "note": "Original Gazette now downloaded and visually checked: Doba Slot, formerly Milstein, born Ledere; estate 2783/77; 36 Umgeni Road, Emmarentia; Berger & Berger. The notice is not the full estate packet.",
+    "url": "https://www.lac.org.na/laws/GGsa/rsagg5715.pdf",
+    "file": "doba-gazette-page-104.pdf",
+    "thumb": "doba-gazette-page.jpg",
+    "locator": "Government Gazette 5715, 19 August 1977, printed p.104 / PDF p.104. Full Gazette also bundled.",
+    "additional": [
+      {
+        "file": "gazette-5715.pdf",
+        "label": "Full original Gazette PDF"
+      }
+    ]
+  },
+  {
+    "id": "doba-film",
+    "title": "Doba’s estate: film-range lead",
+    "type": "Restricted catalogue",
+    "note": "Film 2276122 / image group 7748578 covers estates 1961/77–360/78. The catalogue explicitly restricts digital access. Numerical inclusion does not prove that the individual packet survives.",
+    "url": "https://www.familysearch.org/en/search/catalog/film?dgs=007748578&cat=1162069&i=0",
+    "file": null,
+    "thumb": null,
+    "locator": "FamilySearch catalogue 1162069; no original packet inspected"
+  },
+  {
+    "id": "isaac-estate",
+    "title": "Isaac Slot estate: TAB MHG 5056/52",
+    "type": "Archive catalogue",
+    "note": "Official National Archives description, ZA TAB MHG_0_5056/52_1. No digital object attached; full file not obtained.",
+    "url": "https://www.nationalarchives.gov.za/search/document/31807904",
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "annie",
+    "title": "Annie Slot, born Camberg: death notice",
+    "type": "Civil / probate record",
+    "note": "Died 4 August 1941, Johannesburg, 53, Edinburgh-born; husband Isaac, estate agent; children Hayme (reading provisional), Paul and Leslie, born 16 May 1923. Plausible earlier Slot household, not yet joined conclusively to Doba.",
+    "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS9G-44FY",
+    "file": "annie-slot-notice.png",
+    "thumb": "annie-slot-notice.jpg",
+    "locator": "Image 1380 of 2092. Saved screenshot; does not assign sex to the children."
+  },
+  {
+    "id": "selwyn",
+    "title": "Selwyn Segal institutional history",
+    "type": "Institutional report",
+    "note": "Founded 1956 at Pandora Road, Kensington; moved to Sandringham nine years later. This fits Minnie’s geographical recollection but does not establish Arke’s residency.",
+    "url": "https://jhbchev.co.za/wp-content/uploads/Annual-Report-19_October_2023-website.pdf",
+    "file": "chev-annual-report-2023-original.pdf",
+    "thumb": "selwyn-segal-page.jpg",
+    "locator": "2023 annual report, printed p.42 / PDF p.45; separate internally inconsistent “77 years” wording not used",
+    "additional": [
+      {
+        "file": "selwyn-segal-extract.pdf",
+        "label": "Relevant report extract"
+      }
+    ]
+  },
+  {
+    "id": "guide1858",
+    "title": "Opalin 1858 revision-list archive lead",
+    "type": "Archive guide",
+    "note": "Kronik and Sack, Some Archival Sources for Ukrainian-Jewish Genealogy (1997), p.62: Opalin, 1858, rs, 118, Z. Z refers to Zhytomyr. The number is not a complete current archival citation; no named family entry inspected.",
+    "url": "https://files.diasporiana.org.ua/books/30103/file.pdf",
+    "file": "archive-guide-1997-original.pdf",
+    "thumb": null,
+    "locator": "Printed p.62; title and key pages included in separate extract",
+    "additional": [
+      {
+        "file": "archive-guide-extract.pdf",
+        "label": "Title, key and Opalin entry extract"
+      }
+    ]
+  },
+  {
+    "id": "guide1860",
+    "title": "CAHJP: Opalin 1860–1861 material",
+    "type": "Archive guide",
+    "note": "2012 guide, p.47, lists genealogical material. Survival, custody, digitisation and named family entries still require checking.",
+    "url": "https://www.geshergalicia.org/wp-content/uploads/2014/12/SourcesonPolishJewryattheCentralArchivesPart2_M-Z.pdf",
+    "file": "cahjp-guide-original.pdf",
+    "thumb": null,
+    "locator": "Sources on Polish Jewry at the Central Archives, part 2, p.47"
+  },
+  {
+    "id": "business",
+    "title": "Milrich Engineering: candidate files",
+    "type": "Archive catalogue",
+    "note": "TAB WLD 2664/1955, 168/1956 and 524/1957 pair Philip/Phillip and Benjamin Milstein/Millstein. Candidate business associations only; file contents and outcomes were not inspected.",
+    "url": "https://www.nationalarchives.gov.za/search/",
+    "file": null,
+    "thumb": null,
+    "locator": "Search Milstein / Millstein; avoid the unrelated earlier Philip Abe Milstein cases"
+  },
+  {
+    "id": "mark",
+    "title": "Mark Cohen’s family recollections",
+    "type": "Family testimony",
+    "note": "Recollections supplied in November 2026: identity and nicknames; 1986 stay with Israel Alter; Arke and possible Selwyn Segal care; Krugersdorp may have been a cover story. Not independent civil records.",
+    "url": null,
+    "file": null,
+    "thumb": null,
+    "locator": "Research correspondence, November 2026; no personal correspondence reproduced"
+  },
+  {
+    "id": "recent",
+    "title": "Mark, Natalie and Luba: recent conversation",
+    "type": "Family conversation",
+    "note": "Supplied text has no timestamps or reliable speaker labels. Recording date described as a couple of days before submission. Statements cannot be assigned individually. Masie means Riva; Krugersdorp is not a verified residence.",
+    "url": null,
+    "file": null,
+    "thumb": null,
+    "locator": "Supplied transcription, November 2026; relevant findings incorporated, full recent conversation not republished"
+  },
+  {
+    "id": "hela2",
+    "title": "Hela Lederer Tape 1 - 2",
+    "type": "Family recording",
+    "note": "Introductory interview, apparently 23 March 1999. Opalin, family, Warsaw and migration. Listen before Tape 1 - 1. Automatic working transcription; uncertain names and overlapping speech require listening.",
+    "url": null,
+    "file": null,
+    "thumb": null,
+    "locator": "Original family recording; date unknown unless specified"
+  },
+  {
+    "id": "hela1",
+    "title": "Hela Lederer Tape 1 - 1",
+    "type": "Family recording",
+    "note": "Continuation: Bulawayo homes, Harry’s work, family life and Johannesburg. Automatic working transcription; uncertain names and overlapping speech require listening.",
+    "url": null,
+    "file": null,
+    "thumb": null,
+    "locator": "Original family recording; date unknown unless specified"
+  },
+  {
+    "id": "opalin1",
+    "title": "Talking of Opalin - 1",
+    "type": "Family recording",
+    "note": "Group memories: market, school, stove, ferry, journey. Riva appears to be addressed; speaker map unverified. Automatic working transcription; uncertain names and overlapping speech require listening.",
+    "url": null,
+    "file": null,
+    "thumb": null,
+    "locator": "Original family recording; date unknown unless specified"
+  },
+  {
+    "id": "opalin2",
+    "title": "Talking of Opalin - 2",
+    "type": "Family recording",
+    "note": "Johannesburg, Mayfair, Greenside and Isaac Slot. Automatic working transcription; uncertain names and overlapping speech require listening.",
+    "url": null,
+    "file": null,
+    "thumb": null,
+    "locator": "Original family recording; date unknown unless specified"
+  },
+  {
+    "id": "minnie1",
+    "title": "Minnie Spitalnik - 1",
+    "type": "Family recording",
+    "note": "Paternal family, Moshe, Nutke, Arke, migration and family support. Automatic working transcription; uncertain names and overlapping speech require listening.",
+    "url": null,
+    "file": null,
+    "thumb": null,
+    "locator": "Original family recording; date unknown unless specified"
+  },
+  {
+    "id": "minnie2",
+    "title": "Minnie Spitalnik - 2",
+    "type": "Family recording",
+    "note": "Appelbaum ancestry, Leibish, Lederer relatives, Opalin economy. Automatic working transcription; uncertain names and overlapping speech require listening.",
+    "url": null,
+    "file": null,
+    "thumb": null,
+    "locator": "Original family recording; date unknown unless specified"
+  },
+  {
+    "id": "ben1",
+    "title": "uncle ben interview - 1",
+    "type": "Family recording",
+    "note": "Explicitly names Aaron/Arke, Riva, Ben, Philip and their parents; migration and work. Automatic working transcription; uncertain names and overlapping speech require listening.",
+    "url": null,
+    "file": null,
+    "thumb": null,
+    "locator": "Original family recording; date unknown unless specified"
+  },
+  {
+    "id": "ben2",
+    "title": "uncle ben interview - 2",
+    "type": "Family recording",
+    "note": "Germiston arrival, stepfamily, later life; explicitly dated 11 August 2011 in the recording. Automatic working transcription; uncertain names and overlapping speech require listening.",
+    "url": null,
+    "file": null,
+    "thumb": null,
+    "locator": "Original family recording; date unknown unless specified"
+  },
+  {
+    "id": "pb1",
+    "title": "Philip and Ben - Side 1",
+    "type": "Family recording",
+    "note": "Apparent alternate copy of Talking of Opalin - 2. Automatic working transcription; uncertain names and overlapping speech require listening.",
+    "url": null,
+    "file": null,
+    "thumb": null,
+    "locator": "Original family recording; date unknown unless specified"
+  },
+  {
+    "id": "pb2",
+    "title": "Philip and Ben - Side 2",
+    "type": "Family recording",
+    "note": "Apparent alternate copy of Talking of Opalin - 1. Automatic working transcription; uncertain names and overlapping speech require listening.",
+    "url": null,
+    "file": null,
+    "thumb": null,
+    "locator": "Original family recording; date unknown unless specified"
+  },
+  {
+    "id": "pb21",
+    "title": "Philip and Ben Tape 2 - Side 1",
+    "type": "Family recording",
+    "note": "Apparent alternate copy of Talking of Opalin - 1; same sequence, different timestamps. Automatic working transcription; uncertain names and overlapping speech require listening.",
+    "url": null,
+    "file": null,
+    "thumb": null,
+    "locator": "Original family recording; date unknown unless specified"
+  },
+  {
+    "id": "pb22",
+    "title": "Philip and Ben Tape 2 - Side 2",
+    "type": "Family recording",
+    "note": "Apparent alternate copy of Talking of Opalin - 2; same sequence, different timestamps. Automatic working transcription; uncertain names and overlapping speech require listening.",
+    "url": null,
+    "file": null,
+    "thumb": null,
+    "locator": "Original family recording; date unknown unless specified"
+  },
+  {
+    "id": "minnie-portrait",
+    "title": "Minnie Spitalnik: portrait",
+    "type": "Family photograph",
+    "note": "Minnie identified by Mark Cohen. Date, place and photographer not established.",
+    "url": null,
+    "file": "minnie-portrait.jpg",
+    "thumb": "minnie-portrait.jpg",
+    "locator": "Supplied and identified by Mark Cohen, 19 November 2026. Original filename: Minnie Spitalnik.jpg"
+  },
+  {
+    "id": "minnie-george",
+    "title": "Minnie and her husband George",
+    "type": "Family photograph",
+    "note": "Mark identifies the couple as Minnie and her husband George. The supplied filename also uses “Menucha and Eltzik”; these labels do not by themselves establish the civil name Elias.",
+    "url": null,
+    "file": "minnie-george.jpg",
+    "thumb": "minnie-george.jpg",
+    "locator": "Supplied and identified by Mark Cohen, 19 November 2026. Original filename: Minnie Spitalnik and George - Menucha and Eltzik.jpg"
+  },
+  {
+    "id": "riva-wedding",
+    "title": "Riva on her wedding day",
+    "type": "Family photograph",
+    "note": "Identified by Mark Cohen as Riva at her wedding. Exact date, place and photographer have not been supplied.",
+    "url": null,
+    "file": "riva-wedding.jpg",
+    "thumb": "riva-wedding.jpg",
+    "locator": "Supplied and identified by Mark Cohen, 19 November 2026. Original filename: IMG_0233.jpeg"
+  },
+  {
+    "id": "riva-max-mark-wedding",
+    "title": "Riva and Max at Mark Cohen’s wedding",
+    "type": "Family photograph",
+    "note": "Identified by Mark Cohen as Riva (Masie/Mazie) and Max (Mackie) at his wedding. Exact date, place and photographer have not been supplied.",
+    "url": null,
+    "file": "riva-max-mark-wedding.jpg",
+    "thumb": "riva-max-mark-wedding.jpg",
+    "locator": "Supplied and identified by Mark Cohen, 19 November 2026. Original filename: Mazie and Mackie at our wedding.jpg"
+  },
+  {
+    "id": "school-scan-14",
+    "title": "Opalin school group — Scan 14",
+    "type": "Family photograph",
+    "note": "Mark Cohen identifies this as a school photograph from Opalin and confirms that Riva appears in it. Her exact position has not been specified for this scan. Date, school name and other people remain unidentified.",
+    "url": null,
+    "file": "opalin-school-scan-14.jpg",
+    "thumb": "opalin-school-scan-14.jpg",
+    "locator": "Supplied and identified by Mark Cohen. Original filename: Scan 14.jpg"
+  },
+  {
+    "id": "school-scan-12",
+    "title": "Opalin school group — Scan 12",
+    "type": "Family photograph",
+    "note": "Mark Cohen identifies this as a school photograph from Opalin and confirms that Riva appears in it. Her exact position has not been specified for this scan. Date, school name and other people remain unidentified.",
+    "url": null,
+    "file": "opalin-school-scan-12.jpg",
+    "thumb": "opalin-school-scan-12.jpg",
+    "locator": "Supplied and identified by Mark Cohen. Original filename: Scan 12.jpeg"
+  }
+]

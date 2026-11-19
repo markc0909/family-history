@@ -1,0 +1,457 @@
+[
+  {
+    "file": "assets/documents/doba-passport-family.jpg",
+    "origin": "Family collection, supplied by Mark Cohen",
+    "kind": "family original scan",
+    "bytes": 1585933,
+    "sha256": "a72b7d79c59a21f509aec2fa45e4cb08f9b48bf8f9cde3b5033c75a760765a33"
+  },
+  {
+    "file": "assets/documents/doba-passport-title.jpg",
+    "origin": "Family collection, supplied by Mark Cohen",
+    "kind": "family original scan",
+    "bytes": 1386312,
+    "sha256": "e382dd94cdb6a68263f3ee727ebfc2487aa50aceafd5cefc2e7ebdc44ba44777"
+  },
+  {
+    "file": "assets/documents/manifest-1934.jpg",
+    "origin": "The National Archives, BT27/1400; Findmypast scan supplied by Mark Cohen",
+    "kind": "family-supplied archive scan",
+    "bytes": 421720,
+    "sha256": "3f83df3437103cd70aeb7b82ed087be99e74e92b26df257ef9b827cbdd54ef96"
+  },
+  {
+    "file": "assets/documents/opalin-school.png",
+    "origin": "Family collection, supplied by Mark Cohen",
+    "kind": "family scan",
+    "bytes": 1829097,
+    "sha256": "6e534c610be6238086e9dacfe54098b12eb6de03d8cdfc67f874182a2aeea076"
+  },
+  {
+    "file": "assets/documents/moshe-photo-inscription.png",
+    "origin": "Family collection, supplied by Mark Cohen",
+    "kind": "family scan",
+    "bytes": 1025449,
+    "sha256": "201b86de7451f6317758d718c595b56485d43dcace00d8f96af6d257889e7c30"
+  },
+  {
+    "file": "assets/documents/nutke-portrait.png",
+    "origin": "Family collection, supplied by Mark Cohen",
+    "kind": "family scan",
+    "bytes": 563266,
+    "sha256": "6e3aa2734d026471997b8ea4eb82d822feece756c1699411d914bc41ffdec607"
+  },
+  {
+    "file": "assets/documents/passport-observations.jpeg",
+    "origin": "Family collection, Doba Milsztejn passport",
+    "kind": "family original scan",
+    "bytes": 199469,
+    "sha256": "a85d44edd8c4ddc662e1130ee5cc6a55585ef01450d3b6fa4ed63f14e88db283"
+  },
+  {
+    "file": "assets/documents/passport-polish-exit.jpg",
+    "origin": "Family collection, Doba Milsztejn passport",
+    "kind": "family original scan",
+    "bytes": 43185,
+    "sha256": "1c0f48fd6194112cf9c7e5058df7206a0cad47351c63ff012f3213bca238ec0b"
+  },
+  {
+    "file": "assets/documents/passport-cancelled-visa.jpg",
+    "origin": "Family collection, Doba Milsztejn passport",
+    "kind": "family original scan",
+    "bytes": 30464,
+    "sha256": "5123a45d79140fd31bbbe58476d1aa03413eb9c2e5aa18cae6313bf4883454ae"
+  },
+  {
+    "file": "assets/documents/passport-german-transit.jpeg",
+    "origin": "Family collection, Doba Milsztejn passport",
+    "kind": "family original scan",
+    "bytes": 213455,
+    "sha256": "56e443528676c46052bf84cbf3a7b99b5986a3f65eb9de5b06ed8b2df81bd9f2"
+  },
+  {
+    "file": "assets/documents/passport-south-africa-visa.jpeg",
+    "origin": "Family collection, Doba Milsztejn passport",
+    "kind": "family original scan",
+    "bytes": 350116,
+    "sha256": "63352e8d4e487ffe1ff7dfa62fbb19c75dbd4db51d7fcb2fbd0fa2c0a52335e8"
+  },
+  {
+    "file": "assets/documents/minnie-grave.jpg",
+    "origin": "Research evidence saved 18–19 November 2026; see source catalogue",
+    "kind": "saved source image",
+    "bytes": 267297,
+    "sha256": "218b963124e2f719629c56951c9b1a0611d619ed49c98e02c2601623b074055d"
+  },
+  {
+    "file": "assets/documents/chaya-alter-testimony.png",
+    "origin": "Research evidence saved 18–19 November 2026; see source catalogue",
+    "kind": "saved browser screenshot",
+    "bytes": 73383,
+    "sha256": "f9412517ecbc49c218e081719f7049b2316e6624d52064b197690a90258269c1"
+  },
+  {
+    "file": "assets/documents/archive-guide-extract.pdf",
+    "origin": "Research evidence saved 18–19 November 2026; see source catalogue",
+    "kind": "PDF extract",
+    "bytes": 202915,
+    "sha256": "4b3476467cec0c33b9c1247fd9168c4cc4cda685ca8279800f9ae6765f6664e8"
+  },
+  {
+    "file": "assets/documents/annie-slot-notice.png",
+    "origin": "Research evidence saved 18–19 November 2026; see source catalogue",
+    "kind": "saved browser screenshot",
+    "bytes": 106664,
+    "sha256": "8d35dc2630818b8aaded7979456d10526247effaaf6818a0e73a3d884a01bc02"
+  },
+  {
+    "file": "assets/documents/mendel-1118855.png",
+    "origin": "Research evidence saved 18–19 November 2026; see source catalogue",
+    "kind": "saved browser screenshot",
+    "bytes": 78221,
+    "sha256": "40ac220211114709af70eac7d9f1b8e0369520e0136bff8003bf9d8b6106e187"
+  },
+  {
+    "file": "assets/documents/mendel-335860.png",
+    "origin": "Research evidence saved 18–19 November 2026; see source catalogue",
+    "kind": "saved browser screenshot",
+    "bytes": 69365,
+    "sha256": "5e034a949cda17a1642aa2fa188dcd54d11691237cc69b10ee32c7061eaea948"
+  },
+  {
+    "file": "assets/documents/morris-death-1935.png",
+    "origin": "Research evidence saved 18–19 November 2026; see source catalogue",
+    "kind": "saved browser screenshot",
+    "bytes": 191176,
+    "sha256": "5dc28faa2fce9260ba89feb9ad8e7b4a15083e722005991500518f19f01c134a"
+  },
+  {
+    "file": "assets/documents/mina-marriage-1937.png",
+    "origin": "Research evidence saved 18–19 November 2026; see source catalogue",
+    "kind": "saved browser screenshot",
+    "bytes": 131539,
+    "sha256": "d1fa806dd71029aca37c35e52fa212018c313b05ba0bd4b1cf7bbe6f48705e20"
+  },
+  {
+    "file": "assets/documents/selwyn-segal-page.png",
+    "origin": "Research evidence saved 18–19 November 2026; see source catalogue",
+    "kind": "saved source image",
+    "bytes": 356436,
+    "sha256": "a7e5d15c86c40e1c37976fb7fd3153bd7ac3bd8b3d22e7cd8ff7b226b948bf65"
+  },
+  {
+    "file": "assets/documents/warsaw-directory-extract.pdf",
+    "origin": "Research evidence saved 18–19 November 2026; see source catalogue",
+    "kind": "PDF extract",
+    "bytes": 188306,
+    "sha256": "953dfb9d7fbe4357def370fd2b7b0636e3f5e5aa4db201de53370c480dbde855"
+  },
+  {
+    "file": "assets/documents/warsaw-directory-page.png",
+    "origin": "Research evidence saved 18–19 November 2026; see source catalogue",
+    "kind": "saved source image",
+    "bytes": 2105304,
+    "sha256": "42bdec7c289b1a134560c1d84640a8c75d2bd826826c98ccb668e15345799847"
+  },
+  {
+    "file": "assets/documents/freida-testimony.png",
+    "origin": "Research evidence saved 18–19 November 2026; see source catalogue",
+    "kind": "saved browser screenshot",
+    "bytes": 68964,
+    "sha256": "bd1a8511187e834e1ab8fdbfb84c9d14bb51d6c1eef688d72d8a363b1ea0499c"
+  },
+  {
+    "file": "assets/documents/yosefa-testimony.png",
+    "origin": "Research evidence saved 18–19 November 2026; see source catalogue",
+    "kind": "saved browser screenshot",
+    "bytes": 84427,
+    "sha256": "6c2eec0ffdf5b3de2e7f32b95a85e1e05544a0a3fe47765589027ff60c8e4bd6"
+  },
+  {
+    "file": "assets/documents/selwyn-segal-extract.pdf",
+    "origin": "Research evidence saved 18–19 November 2026; see source catalogue",
+    "kind": "PDF extract",
+    "bytes": 125189,
+    "sha256": "579b41d7715b76d6c1bc9221cda1e80176164e3f687db7f9b36f1ee2f73f1b96"
+  },
+  {
+    "file": "assets/documents/chuma-testimony.png",
+    "origin": "Research evidence saved 18–19 November 2026; see source catalogue",
+    "kind": "saved browser screenshot",
+    "bytes": 69773,
+    "sha256": "a4d9e07ca25c46299ce8a939b1cd3438b461f9dbd5392e0606335de3f9b6af7e"
+  },
+  {
+    "file": "assets/documents/isaac-slot-grave.jpg",
+    "origin": "Research evidence saved 18–19 November 2026; see source catalogue",
+    "kind": "saved source image",
+    "bytes": 394347,
+    "sha256": "23a467431830894393e835a0a5111c50f04417ddf769d687ae228096a52ac64b"
+  },
+  {
+    "file": "assets/documents/ethan-riva-history.pdf",
+    "origin": "Ethan Cohen, Riva Gilinsky, undated family history",
+    "kind": "family-authored secondary account",
+    "bytes": 11691768,
+    "sha256": "600bea86b540c13c6d7baf715beb425ec7b3d81ba185f1036da91d94cc79b0b0"
+  },
+  {
+    "file": "assets/documents/school-from-ethan-0.jpg",
+    "origin": "Ethan Cohen PDF, page 6, embedded image 1",
+    "kind": "image extracted without alteration",
+    "bytes": 207880,
+    "sha256": "0bd6269846ea8116f2f6737bf92d9204533f1e49565f6adbe656f7ad109ffb4c"
+  },
+  {
+    "file": "assets/documents/school-from-ethan-1.jpg",
+    "origin": "Ethan Cohen PDF, page 6, embedded image 2",
+    "kind": "image extracted without alteration",
+    "bytes": 61406,
+    "sha256": "a1ba4a1e0ea4878c19609bbc3118d460a83b14774daf86b46cfe584ef2ae32cc"
+  },
+  {
+    "file": "assets/documents/school-additional-0.jpg",
+    "origin": "Ethan Cohen PDF, page 7, embedded image 1",
+    "kind": "image extracted without alteration",
+    "bytes": 22809,
+    "sha256": "ab435e0da2dad7fd9bdb1b3bae8df5062b10f44db4f6e6064230e3e05b0afb8f"
+  },
+  {
+    "file": "assets/documents/school-additional-1.png",
+    "origin": "Ethan Cohen PDF, page 7, embedded image 2",
+    "kind": "image extracted without alteration",
+    "bytes": 17791,
+    "sha256": "9655d8706b4dbd9d7a7e822ea96d8553112b65ea7d4a2e4f4712f7130a7bd932"
+  },
+  {
+    "file": "assets/documents/school-additional-2.png",
+    "origin": "Ethan Cohen PDF, page 7, embedded image 3",
+    "kind": "image extracted without alteration",
+    "bytes": 73295,
+    "sha256": "336bee488d4acd6a68240e4c991798ac57f4c2a0debf47825229679063cedc08"
+  },
+  {
+    "file": "assets/documents/nutke-from-ethan-0.jpg",
+    "origin": "Ethan Cohen PDF, page 11, embedded image 1",
+    "kind": "image extracted without alteration",
+    "bytes": 11854,
+    "sha256": "49b26bf8b75a6fa6a1e451354ff6fdc192415dbcbac2da64a93fca773045f3f2"
+  },
+  {
+    "file": "assets/documents/minnie-from-ethan-0.jpg",
+    "origin": "Ethan Cohen PDF, page 12, embedded image 1",
+    "kind": "image extracted without alteration",
+    "bytes": 19525,
+    "sha256": "5eeb47c47a8ff125aee5393d5169160a579f1af43d68cccd037a776a1661d4d0"
+  },
+  {
+    "file": "assets/documents/riva-id-1934-0.jpg",
+    "origin": "Ethan Cohen PDF, page 14, embedded image 1",
+    "kind": "image extracted without alteration",
+    "bytes": 73322,
+    "sha256": "d567a4013b210fc6f2131c0b3e6d6baa2e346727b4b9d1e5c67d9d97ffe10022"
+  },
+  {
+    "file": "assets/documents/riva-max-dancing-0.jpg",
+    "origin": "Ethan Cohen PDF, page 15, embedded image 1",
+    "kind": "image extracted without alteration",
+    "bytes": 221270,
+    "sha256": "c8b843f3b8e3b8b7cfc3e1e59c34f4ce6292fbbfc11d7bbfaf610dffece83302"
+  },
+  {
+    "origin": "https://media.jhbchev.co.za/grave-images/H/H-2215-001.jpg",
+    "file": "assets/documents/aron-grave-original.jpg",
+    "kind": "downloaded public original",
+    "bytes": 324614,
+    "sha256": "9b4f6005f8d9116fdc13aaeffa6e5145ce5e15087961e868b2c9b45f9fd054f6"
+  },
+  {
+    "origin": "https://www.lac.org.na/laws/GGsa/rsagg5715.pdf",
+    "file": "assets/documents/gazette-5715.pdf",
+    "kind": "downloaded public original",
+    "bytes": 14252042,
+    "sha256": "8ef7affead95799133011f8fa68cee93df4e4ac7b25a34ad4dc6a34601c56b34"
+  },
+  {
+    "file": "assets/documents/warsaw-directory-1928-original.pdf",
+    "origin": "https://kresy.genealodzy.pl/zbior/pdf/pam_kniga/1928_ks_adres_warszawa_cz_II.pdf",
+    "kind": "downloaded public original",
+    "bytes": 17212060,
+    "sha256": "7130994e14a3aa5918d4761af8a1fa33f2ebeec10ab62f17b9195be2b421c1e3"
+  },
+  {
+    "file": "assets/documents/archive-guide-1997-original.pdf",
+    "origin": "https://files.diasporiana.org.ua/books/30103/file.pdf",
+    "kind": "downloaded public original",
+    "bytes": 4150112,
+    "sha256": "f2a444be1107cf9b98ae69b3141ecf06ddb460f0d794b71b8d48a3eb006b51a4"
+  },
+  {
+    "file": "assets/documents/chev-annual-report-2023-original.pdf",
+    "origin": "https://jhbchev.co.za/wp-content/uploads/Annual-Report-19_October_2023-website.pdf",
+    "kind": "downloaded public original",
+    "bytes": 49458931,
+    "sha256": "856fb04107944a5dfb21d004ef299458c6934d8ec34076fa33396a2e35278b3b"
+  },
+  {
+    "origin": "https://www.geshergalicia.org/wp-content/uploads/2014/12/SourcesonPolishJewryattheCentralArchivesPart2_M-Z.pdf",
+    "file": "assets/documents/cahjp-guide-original.pdf",
+    "kind": "downloaded public original",
+    "bytes": 1430743,
+    "sha256": "d2b653f1533c60f176b70185a6b78ad380acc9517f7f9e8b5098e8123aaff2db"
+  },
+  {
+    "file": "assets/documents/doba-gazette-page-104.pdf",
+    "origin": "Government Gazette 5715, p.104; extracted from downloaded original",
+    "kind": "single-page PDF extract",
+    "bytes": 124513,
+    "sha256": "a875d98bc7531437e33cf0de7f1c0690289f424c488ef7f4d4661cd7f78707ba"
+  },
+  {
+    "file": "assets/documents/yosefa-source-scan.avif",
+    "origin": "https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/arch1_yadvashem/26021206_273_1922/170.jpg",
+    "kind": "source-provided scan downloaded through the testimony viewer, AVIF as delivered",
+    "bytes": 576369,
+    "sha256": "a1798dce74c9d054d56601069f129b7027d0749e241559c1a3c4d1c8ba69f907"
+  },
+  {
+    "file": "assets/audio/pb1.mp3",
+    "origin": "Family recording supplied by Mark Cohen; original filename recorded in data/recordings.json",
+    "kind": "48 kb/s mono listening derivative; original master not modified",
+    "bytes": 7419262,
+    "sha256": "0f3bf57f7e6bf1901321104fa4c893b5964e5387600ace5c5882bce294d553bd"
+  },
+  {
+    "file": "assets/audio/pb2.mp3",
+    "origin": "Family recording supplied by Mark Cohen; original filename recorded in data/recordings.json",
+    "kind": "48 kb/s mono listening derivative; original master not modified",
+    "bytes": 11048298,
+    "sha256": "87b16a666aa2079f570416fde350cf73e85b04eb7468303d4ac28b1caab580cd"
+  },
+  {
+    "file": "assets/audio/pb22.mp3",
+    "origin": "Family recording supplied by Mark Cohen; original filename recorded in data/recordings.json",
+    "kind": "48 kb/s mono listening derivative; original master not modified",
+    "bytes": 7062534,
+    "sha256": "ba10ddc031764bd6c2c2affbfef8e2799fbc2ea86517ea4f4a433f2abeb31f3a"
+  },
+  {
+    "file": "assets/audio/minnie1.mp3",
+    "origin": "Family recording supplied by Mark Cohen; original filename recorded in data/recordings.json",
+    "kind": "48 kb/s mono listening derivative; original master not modified",
+    "bytes": 16308941,
+    "sha256": "666541caeea37966d7b29aff7ee1717efd6e98cd3c04ebfefd8e55f2bf008e21"
+  },
+  {
+    "file": "assets/audio/hela2.mp3",
+    "origin": "Family recording supplied by Mark Cohen; original filename recorded in data/recordings.json",
+    "kind": "48 kb/s mono listening derivative; original master not modified",
+    "bytes": 16665669,
+    "sha256": "86e9edc017d9ec30fc26bbcbf0999f8549602ee7beb6f43e37a47618cceae7a0"
+  },
+  {
+    "file": "assets/audio/pb21.mp3",
+    "origin": "Family recording supplied by Mark Cohen; original filename recorded in data/recordings.json",
+    "kind": "48 kb/s mono listening derivative; original master not modified",
+    "bytes": 10852066,
+    "sha256": "214a71659886873daf09493a424127d0a8a4a757588c7749eb052909ed068b19"
+  },
+  {
+    "file": "assets/audio/minnie2.mp3",
+    "origin": "Family recording supplied by Mark Cohen; original filename recorded in data/recordings.json",
+    "kind": "48 kb/s mono listening derivative; original master not modified",
+    "bytes": 16264428,
+    "sha256": "a659508a84c0c70172126dd9a53e38ad531206dad787ffa7c88d56fefb2f4338"
+  },
+  {
+    "file": "assets/audio/hela1.mp3",
+    "origin": "Family recording supplied by Mark Cohen; original filename recorded in data/recordings.json",
+    "kind": "48 kb/s mono listening derivative; original master not modified",
+    "bytes": 6028242,
+    "sha256": "6d1dd5a7c340fe5521da1b1df7f7147135a47d91d0855142edac56926f7fffd5"
+  },
+  {
+    "file": "assets/audio/opalin1.mp3",
+    "origin": "Family recording supplied by Mark Cohen; original filename recorded in data/recordings.json",
+    "kind": "48 kb/s mono listening derivative; original master not modified",
+    "bytes": 11734796,
+    "sha256": "2232c1dd23995032d1695e2b1c84afecc35d9f4d2ef8387f17340f9b8cbdef1a"
+  },
+  {
+    "file": "assets/audio/opalin2.mp3",
+    "origin": "Family recording supplied by Mark Cohen; original filename recorded in data/recordings.json",
+    "kind": "48 kb/s mono listening derivative; original master not modified",
+    "bytes": 6812856,
+    "sha256": "809dc01e8ef754496524154ef8ee0dd469f98b774981295f34347862c1aafbd8"
+  },
+  {
+    "file": "assets/audio/ben2.mp3",
+    "origin": "Family recording supplied by Mark Cohen; original filename recorded in data/recordings.json",
+    "kind": "48 kb/s mono listening derivative; original master not modified",
+    "bytes": 17501535,
+    "sha256": "23fe5cff602f804903e822b18a790a70da6826205a93b42c72f15fc78ecb805d"
+  },
+  {
+    "file": "assets/audio/ben1.mp3",
+    "origin": "Family recording supplied by Mark Cohen; original filename recorded in data/recordings.json",
+    "kind": "48 kb/s mono listening derivative; original master not modified",
+    "bytes": 33775455,
+    "sha256": "883cf04171b5685f7d1953e23ca3e984a501bbaf50b8a0651dc04578805d71b1"
+  },
+  {
+    "file": "assets/documents/minnie-portrait.jpg",
+    "origin": "Family collection supplied by Mark Cohen; original filename: Minnie Spitalnik.jpg",
+    "kind": "unaltered family-supplied photograph",
+    "bytes": 17534,
+    "sha256": "38f3662c986121a62161f4d22094e25270b49804f42c0178c58de7677f4ca663"
+  },
+  {
+    "file": "assets/documents/minnie-george.jpg",
+    "origin": "Family collection supplied by Mark Cohen; original filename: Minnie Spitalnik and George - Menucha and Eltzik.jpg",
+    "kind": "unaltered family-supplied photograph",
+    "bytes": 23277,
+    "sha256": "a43c12ce31f4a7a13b573ad1ed9366c1b94c1cfa71dc114aa6f7707fb89e763c"
+  },
+  {
+    "file": "assets/documents/riva-wedding.jpg",
+    "origin": "Family collection supplied by Mark Cohen; original filename: IMG_0233.jpeg",
+    "kind": "unaltered family-supplied photograph",
+    "bytes": 307581,
+    "sha256": "2a0272463c116f86aa9be6f4fb9a5d3034c1a824cc8a96860967a886ed3f7917"
+  },
+  {
+    "file": "assets/documents/riva-max-mark-wedding.jpg",
+    "origin": "Family collection supplied by Mark Cohen; original filename: Mazie and Mackie at our wedding.jpg",
+    "kind": "unaltered family-supplied photograph",
+    "bytes": 235160,
+    "sha256": "383e1612e125a163220cc0cc9cc62b79a857902080251b50311007a238e83092"
+  },
+  {
+    "file": "assets/documents/opalin-school-scan-14.jpg",
+    "origin": "Family collection supplied by Mark Cohen; original filename: Scan 14.jpg",
+    "kind": "unaltered family-supplied school photograph",
+    "bytes": 72829,
+    "sha256": "cf8cd951e38391b611472cdbc63e8d2d27a04ba4dcff1a2e3c63a077913de0d1"
+  },
+  {
+    "file": "assets/documents/opalin-school-scan-12.jpg",
+    "origin": "Family collection supplied by Mark Cohen; original filename: Scan 12.jpeg",
+    "kind": "unaltered family-supplied school photograph",
+    "bytes": 44889,
+    "sha256": "ae1ade0f91c65dd8e1109bce947fd546f6aafa2ce10bd933ffe4f39846a54215"
+  },
+  {
+    "file": "assets/bytejam-logo.svg",
+    "origin": "Mark Cohen supplied logo: bytejam-logo.svg",
+    "kind": "unaltered user-supplied SVG brand mark",
+    "bytes": 715,
+    "sha256": "f516d9251c507370f36cddf77bd75e9566627f3926b68f9a37af5dcfe09ffe19"
+  },
+  {
+    "file": "assets/bytejam-logo-dark.svg",
+    "origin": "Mark Cohen supplied logo: bytejam-logo-dark.svg",
+    "kind": "unaltered user-supplied SVG brand mark",
+    "bytes": 715,
+    "sha256": "ff8c956789ab21585685237abef17add2d371fac439e216a744a7db27cc368bc"
+  }
+]
