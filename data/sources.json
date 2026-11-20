@@ -638,5 +638,315 @@
     "file": "opalin-school-scan-12.jpg",
     "thumb": "opalin-school-scan-12.jpg",
     "locator": "Supplied and identified by Mark Cohen. Original filename: Scan 12.jpeg"
+  },
+  {
+    "id": "gil-mark",
+    "title": "Gilinsky family identifications — Mark Cohen",
+    "type": "Family testimony",
+    "note": "Mark identifies the people and locations in the supplied photographs, confirms Benoni before Upington, and recalls Max owning Station Jewellers on Station Street, Mayfair. Trading dates remain unknown.",
+    "url": null,
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "gil-store",
+    "title": "Shlomo outside his Upington store",
+    "type": "Family photograph",
+    "note": "Identified and located by Mark. The visible sign reads S. Gilinsky / General Dealer. Date unknown.",
+    "url": null,
+    "file": "gil-store.jpg",
+    "thumb": "gil-store.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-horse",
+    "title": "Max riding in Upington",
+    "type": "Family photograph",
+    "note": "Max (Mackie), identified and located by Mark. Date unknown.",
+    "url": null,
+    "file": "gil-horse.jpg",
+    "thumb": "gil-horse.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-lake",
+    "title": "Max and Riva at Florida Lake",
+    "type": "Family photograph",
+    "note": "Max at left and Riva at right, identified by Mark; Florida Lake location supplied by him. Date unknown.",
+    "url": null,
+    "file": "gil-lake.jpg",
+    "thumb": "gil-lake.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-brothers",
+    "title": "Max and Solly Gilinsky",
+    "type": "Family photograph",
+    "note": "Mark identifies Max at left and Solly at right. The central man, date and occasion are unknown.",
+    "url": null,
+    "file": "gil-brothers.jpg",
+    "thumb": "gil-brothers.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-portrait",
+    "title": "Portrait of Shlomo Gilinsky",
+    "type": "Family photograph",
+    "note": "Identified by Mark Cohen as Max’s father. Date and location unknown.",
+    "url": null,
+    "file": "gil-portrait.jpg",
+    "thumb": "gil-portrait.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-group",
+    "title": "Shlomo’s family studio group",
+    "type": "Family photograph",
+    "note": "Mark identifies Shlomo as present. The seated woman and five younger people remain unidentified; date and place unknown.",
+    "url": null,
+    "file": "gil-group.jpg",
+    "thumb": "gil-group.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-three",
+    "title": "Shlomo with three children",
+    "type": "Family photograph",
+    "note": "Shlomo identified by Mark; children’s names and relationship to him unknown. Date and place unknown.",
+    "url": null,
+    "file": "gil-three.jpg",
+    "thumb": "gil-three.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-table",
+    "title": "Shlomo at a table",
+    "type": "Family photograph",
+    "note": "Mark identifies Shlomo as present but has not specified which seated man. The other adult, date and location are unknown.",
+    "url": null,
+    "file": "gil-table.jpg",
+    "thumb": "gil-table.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-max-marriage",
+    "title": "Max and Riva’s marriage, 1938",
+    "type": "Historical record",
+    "note": "Original inspected: 25 December 1938, Johannesburg, certificate 595. Max 28, general dealer; Riva 19, Poland-born. Saved viewer screenshot, not original image download.",
+    "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS29-67Y6-W",
+    "file": "gil-max-marriage.png",
+    "thumb": "gil-max-marriage.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-sol-death",
+    "title": "Solomon’s civil death registration, 1956",
+    "type": "Historical record",
+    "note": "Original inspected: 24 August 1956, aged 80, Russia-born, general dealer, married; residence and death at 101 Ninth Avenue, Mayfair. Informant M. Gilinsky is described as person causing burial, not explicitly a son. Exact handwritten birth date not securely read. Saved viewer screenshot.",
+    "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C91L-8WRH-L",
+    "file": "gil-sol-death.png",
+    "thumb": "gil-sol-death.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-fanny-marriage",
+    "title": "Fanny and Bennie’s marriage, 1937",
+    "type": "Historical record",
+    "note": "25 November 1937, Johannesburg; certificate 1943/1937. Bennie 32, Lithuania-born, bachelor, salesman; Fanny 24, birthplace abbreviated Loc., spinster, saleslady. Both residing Mayfair. Parents not named. Saved viewer screenshot.",
+    "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS23-1S5B-6",
+    "file": "gil-fanny-marriage.png",
+    "thumb": "gil-fanny-marriage.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-leah-marriage",
+    "title": "Leah Dinah’s remarriage, 1920",
+    "type": "Historical record",
+    "note": "12 May 1920, Johannesburg. Leah Dinah Gilinsky, born Nasatir, 41, divorcee; Jacob Mowsovitz (also indexed Mowsowitz), 55, widower. Strong connection to the 1918 court-case party; identification as Max’s mother awaits a direct family-linking original. Saved viewer screenshot.",
+    "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C91V-PP47",
+    "file": "gil-leah-marriage.png",
+    "thumb": "gil-leah-marriage.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-annie-marriage",
+    "title": "Annie and Jack’s marriage, 1929",
+    "type": "Historical record",
+    "note": "4 December 1929, Upington, no. 36 of 1929. Jack Spiro 29, Ireland-born, commercial traveller; Annie Gilinsky 21, South Africa-born, resident Upington. Parents not named. Original register image.",
+    "url": "https://kehilalinks.jewishgen.org/upington/Spiro-Gilinsky.gif",
+    "file": "gil-annie-marriage.gif",
+    "thumb": "gil-annie-marriage.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-sol-remarriage",
+    "title": "Solomon and Rachel’s marriage, 1921",
+    "type": "Historical record",
+    "note": "17 December 1921, Upington. Solomon Gilinsky 40, divorcee, general dealer; Rachel Skop 28, widow. Candidate remarriage of Max’s father, not yet linked through named children. Original register image.",
+    "url": "https://kehilalinks.jewishgen.org/upington/Gilinsky-Skop.gif",
+    "file": "gil-sol-remarriage.gif",
+    "thumb": "gil-sol-remarriage.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-sol-stone",
+    "title": "Solomon Gilinsky’s gravestone",
+    "type": "Burial record",
+    "note": "24 August 1956, aged 79; Hebrew Shlomo son of Eliezer. Strong match to the father’s exact tree death date.",
+    "url": "https://media.jhbchev.co.za/grave-images/J/J-67-001.jpg",
+    "file": "gil-sol-stone.jpg",
+    "thumb": "gil-sol-stone.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-max-stone",
+    "title": "Max and Riva’s adjoining graves",
+    "type": "Burial record",
+    "note": "Riva in foreground, Max alongside. Register: Max died 3 June 2000, buried 4 June, H 1300 Ext B, Mordecai son of Shlomo; Riva died and buried 1 June 2015, H 1300 Ext A.",
+    "url": "https://media.jhbchev.co.za/grave-images/H/H-1300-B-001.jpg",
+    "file": "gil-max-stone.jpg",
+    "thumb": "gil-max-stone.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-solly-stone",
+    "title": "Solly Gilinsky’s gravestone",
+    "type": "Burial record",
+    "note": "Died 25 December 1978. Hebrew Israel son of Shlomo; names wife Sarah.",
+    "url": "https://media.jhbchev.co.za/grave-images/H/H-2678-001.jpg",
+    "file": "gil-solly-stone.jpg",
+    "thumb": "gil-solly-stone.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-sarah-stone",
+    "title": "Sarah Gilinsky’s gravestone",
+    "type": "Burial record",
+    "note": "Died 27 June 1991; Hebrew Sarah daughter of Eliyahu. Maiden surname not on stone.",
+    "url": "https://media.jhbchev.co.za/grave-images/H/H-2679-001.jpg",
+    "file": "gil-sarah-stone.jpg",
+    "thumb": "gil-sarah-stone.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-edie-stone",
+    "title": "Edith (Edie) Lang’s gravestone",
+    "type": "Burial record",
+    "note": "31 January 1956, aged 53; Hebrew father Shlomo; mourned by husband, mother, brothers and sisters. Strong candidate for Max’s sister.",
+    "url": "https://media.jhbchev.co.za/grave-images/B/B-1275-001.jpg",
+    "file": "gil-edie-stone.jpg",
+    "thumb": "gil-edie-stone.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-fanny-stone",
+    "title": "Fanny Lang’s gravestone",
+    "type": "Burial record",
+    "note": "Died 23 January 1987; Hebrew name appears Feiga Chaya daughter of Shlomo. Strong candidate for Max’s sister.",
+    "url": "https://media.jhbchev.co.za/grave-images/U/U-1300-001.jpg",
+    "file": "gil-fanny-stone.jpg",
+    "thumb": "gil-fanny-stone.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-bennie-stone",
+    "title": "Bennie Lang’s gravestone",
+    "type": "Burial record",
+    "note": "Died 7 October 1976; explicitly names wife Fanny. Brother mentioned but not named.",
+    "url": "https://media.jhbchev.co.za/grave-images/S/S-2032-001.jpg",
+    "file": "gil-bennie-stone.jpg",
+    "thumb": "gil-bennie-stone.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-edie-gazette",
+    "title": "Edith Lang estate notice, 1956",
+    "type": "Historical record",
+    "note": "Original Gazette 5653, 23 March 1956, PDF page 114 / printed 110: estate 1336/56, Edith Lang born Gilinsky, housewife of Rand Leases, Florida. Berman & Krawitz, attorneys for executor. Full estate not obtained.",
+    "url": "https://www.lac.org.na/laws/GGsa/sagg5653.pdf",
+    "file": "gil-edie-gazette.pdf",
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "gil-katz",
+    "title": "Gidon Katz — Memories of Mayfair",
+    "type": "Published family recollection",
+    "note": "Katz identifies his mother Milly Gilinsky as one of six, two brothers and four sisters, born in Benoni and raised in Upington. He identifies Solly’s wife as Sara Geyer, associated with the Ochberg group, and recalls Maxie Gilinsky’s watch and jewellery business. This is family recollection; no opening date or Station Jewellers name is given.",
+    "url": "https://kehilalinks.jewishgen.org/johannesburg/Mayfair.html",
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "gil-estate",
+    "title": "Solomon Gilinsky estate catalogue",
+    "type": "Archive catalogue",
+    "note": "TAB MHG 6258/56; ZA TAB MHG_0_6258/56_1. Strong candidate for father’s estate. Catalogue only; original packet not received. Archive enquiry sent 20 November 2026.",
+    "url": "https://www.nationalarchives.gov.za/search/document/32368769",
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "gil-divorce",
+    "title": "Solomon and Leah Dinah, 1918 court catalogue",
+    "type": "Archive catalogue",
+    "note": "TAB WLD 13/1918: Solomon Gilinsky versus Leah Dinah, born Nasatir. Catalogue only. A case title does not prove the outcome; 1920 remarriage describes Leah as divorced.",
+    "url": "https://www.nationalarchives.gov.za/search/document/30626119",
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "gil-anne-estate",
+    "title": "Anne Spiro’s estate index",
+    "type": "Historical record index",
+    "note": "Index: born 1908 in Bononi, Johannesburg; died 28 April 2007, Western Cape. Parents Solomon and Lea Gilinsky; spouse Jacob Spiro. Strong Annie candidate; original image unavailable, so details remain index-derived.",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:6658-WJX2",
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "gil-solly-marriage",
+    "title": "Solly and Sarah’s marriage index",
+    "type": "Historical record index",
+    "note": "Index: 24 June 1928, Johannesburg; Solly Gilinsky and Sarah Gayer. Original not inspected in this pass. Gayer/Geyer spelling varies between sources.",
+    "url": "https://www.familysearch.org/ark:/61903/1:1:QPHF-TZZ3",
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "gil-family-group",
+    "title": "An early Gilinsky family group",
+    "type": "Family photograph",
+    "note": "Shlomo is identified as present by Mark. The seated woman and five younger people remain unnamed; date, location and relationships unconfirmed. Do not assume this depicts all six siblings.",
+    "url": null,
+    "file": "gil-family-group.jpg",
+    "thumb": "gil-family-group.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-three-children",
+    "title": "Shlomo with three children",
+    "type": "Family photograph",
+    "note": "Shlomo identified by Mark. Standing child at viewer’s left, child on left side of lap and child on right side of lap remain unnamed. Their relationship to him is unknown.",
+    "url": null,
+    "file": "gil-three-children.jpg",
+    "thumb": "gil-three-children.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-morris-register",
+    "title": "Morris Lang burial register",
+    "type": "Burial record",
+    "note": "Chevrah Kadisha surname Lang search: died 1 May 1973, buried 2 May, B 1276. Edith is B 1275. Consecutive numbers do not prove marriage. No linked Morris stone was displayed.",
+    "url": "https://jhbchev.co.za/search-graves/",
+    "file": null,
+    "thumb": null,
+    "locator": "Surname Lang search, inspected 20 November 2026"
   }
 ]

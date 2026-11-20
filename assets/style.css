@@ -23,3 +23,16 @@
 .person-card,.recording,.research-grid article,.tree-node rect{background:var(--raised)}.tree-node rect{fill:var(--raised)}
 ::selection{background:#c5c1b7;color:#182028}
 @media(max-width:600px){.brand-mark{width:34px;height:34px;flex-basis:34px}}
+
+/* Gilinsky branch: preserve portrait proportions and readable evidence cards. */
+.gil-hero{max-width:54rem;margin:0 auto 3rem;background:var(--paper,#f6f6f4)}
+.gil-hero img{object-fit:contain;max-height:650px;width:100%;height:auto}
+.gil-family{padding:2rem;background:#eef1f3;border:1px solid #c6d0d7;border-radius:4px;margin:2rem 0}
+.gil-parents{display:flex;justify-content:center;gap:1rem;flex-wrap:wrap}
+.gil-parents a,.gil-siblings a{display:flex;flex-direction:column;gap:.6rem;padding:1.2rem;background:#fff;border:1px solid #a8bac8;color:#182028;text-decoration:none}
+.gil-parents a{max-width:25rem;flex:1;min-width:220px;border-top:4px solid #294a63}
+.gil-connection{text-align:center;margin:1.5rem auto;max-width:40rem}
+.gil-siblings{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem}
+.gil-siblings a{border-top:2px dashed #294a63}.gil-siblings small{font-size:.875rem;line-height:1.5;color:#394e5e}
+#photographs .gallery figure img{height:350px;object-fit:contain;background:#eef1f3}
+@media(max-width:700px){.gil-siblings{grid-template-columns:1fr}.gil-family{padding:1rem}#photographs .gallery figure img{height:auto;max-height:440px}}

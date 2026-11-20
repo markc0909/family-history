@@ -1,5 +1,45 @@
 [
   {
+    "date": "1 September 1934",
+    "label": "Document",
+    "title": "Emigration approval",
+    "text": "Warsaw inspector’s stamp in the observations page.",
+    "refs": [
+      "observations"
+    ],
+    "category": "migration"
+  },
+  {
+    "date": "11 August 1937",
+    "label": "Strong candidate",
+    "title": "Mina and Elias marry",
+    "text": "Johannesburg marriage 1322; strong Minnie identification.",
+    "refs": [
+      "mina-marriage"
+    ],
+    "category": "family"
+  },
+  {
+    "date": "11 August 2011",
+    "label": "Recording",
+    "title": "Ben interview",
+    "text": "The second interview file includes this explicit date.",
+    "refs": [
+      "ben2"
+    ],
+    "category": "family"
+  },
+  {
+    "date": "13 September 1934",
+    "label": "Document",
+    "title": "Departure from London",
+    "text": "Doba, Rywka, Szul and Pinchus aboard Gloucester Castle, booked to Cape Town.",
+    "refs": [
+      "manifest"
+    ],
+    "category": "migration"
+  },
+  {
     "date": "1858",
     "label": "Archive lead",
     "title": "Opalin revision list",
@@ -10,7 +50,7 @@
     "category": "lead"
   },
   {
-    "date": "1860\u20131861",
+    "date": "1860–1861",
     "label": "Archive lead",
     "title": "Genealogical material",
     "text": "The CAHJP guide lists Opalin material; contents remain unexamined.",
@@ -22,7 +62,7 @@
   {
     "date": "1882",
     "label": "Testimony",
-    "title": "Chaya Dwora\u2019s birth",
+    "title": "Chaya Dwora’s birth",
     "text": "The testimony gives Opalin, parents Israel and Zissel.",
     "refs": [
       "chaya"
@@ -40,19 +80,19 @@
     "category": "family"
   },
   {
-    "date": "1912",
-    "label": "Recollection",
-    "title": "Hela\u2019s birth",
-    "text": "Hela gives 1912 and Opalin in the introductory recording.",
+    "date": "19 February 1977",
+    "label": "Document",
+    "title": "Aron / Arke dies",
+    "text": "Twelve days after Doba; father Moshe named on the stone.",
     "refs": [
-      "hela2"
+      "aron-grave"
     ],
     "category": "family"
   },
   {
     "date": "19 November 1919",
     "label": "Document",
-    "title": "Riva\u2019s birth",
+    "title": "Riva’s birth",
     "text": "Identification card gives this date; the older family tree gives 1919.",
     "refs": [
       "riva-id"
@@ -60,12 +100,32 @@
     "category": "family"
   },
   {
-    "date": "About 1920",
+    "date": "1912",
     "label": "Recollection",
-    "title": "Hela\u2019s father dies",
-    "text": "Hela recalls being eight and her mother left with three daughters.",
+    "title": "Hela’s birth",
+    "text": "Hela gives 1912 and Opalin in the introductory recording.",
     "refs": [
       "hela2"
+    ],
+    "category": "family"
+  },
+  {
+    "date": "1920-05-12",
+    "label": "Record / identification as discussed",
+    "title": "Leah Dinah’s remarriage",
+    "text": "Leah Dinah Gilinsky, born Nasatir, marries Jacob Mowsovitz in Johannesburg. Her connection to Max remains under investigation.",
+    "refs": [
+      "gil-leah-marriage"
+    ],
+    "category": "family"
+  },
+  {
+    "date": "1921-12-17",
+    "label": "Record / identification as discussed",
+    "title": "A candidate Upington remarriage",
+    "text": "Solomon Gilinsky, divorced general dealer, marries widow Rachel Skop. Identity as Max’s father is not yet proved.",
+    "refs": [
+      "gil-sol-remarriage"
     ],
     "category": "family"
   },
@@ -82,7 +142,7 @@
   {
     "date": "1928",
     "label": "Document",
-    "title": "Mendel\u2019s bakery listed",
+    "title": "Mendel’s bakery listed",
     "text": "Ogrodowa 24, Warsaw, in the bakery directory.",
     "refs": [
       "directory"
@@ -90,113 +150,12 @@
     "category": "family"
   },
   {
-    "date": "About 1929",
-    "label": "Recollection",
-    "title": "Moshe goes to South Africa",
-    "text": "Separate from Doba\u2019s later voyage; his manifest is still missing.",
+    "date": "1929-12-04",
+    "label": "Record / identification as discussed",
+    "title": "Annie marries Jack Spiro",
+    "text": "Upington register records the marriage. Jack is Ireland-born.",
     "refs": [
-      "minnie1",
-      "hela2"
-    ],
-    "category": "migration"
-  },
-  {
-    "date": "Before September 1934",
-    "label": "Recollection",
-    "title": "Arke travels ahead",
-    "text": "Ben names his eldest brother and says he preceded the younger family.",
-    "refs": [
-      "ben1"
-    ],
-    "category": "migration"
-  },
-  {
-    "date": "21 August 1934",
-    "label": "Document",
-    "title": "Settlement visa granted",
-    "text": "British Passport Office, Warsaw.",
-    "refs": [
-      "visa"
-    ],
-    "category": "migration"
-  },
-  {
-    "date": "1 September 1934",
-    "label": "Document",
-    "title": "Emigration approval",
-    "text": "Warsaw inspector\u2019s stamp in the observations page.",
-    "refs": [
-      "observations"
-    ],
-    "category": "migration"
-  },
-  {
-    "date": "3 September 1934",
-    "label": "Document",
-    "title": "German transit permission",
-    "text": "A visa for passage through Germany.",
-    "refs": [
-      "transit"
-    ],
-    "category": "migration"
-  },
-  {
-    "date": "6 September 1934",
-    "label": "Document",
-    "title": "Polish border departure",
-    "text": "Zb\u0105szy\u0144 stamp on the supplied passport scan.",
-    "refs": [
-      "exit"
-    ],
-    "category": "migration"
-  },
-  {
-    "date": "13 September 1934",
-    "label": "Document",
-    "title": "Departure from London",
-    "text": "Doba, Rywka, Szul and Pinchus aboard Gloucester Castle, booked to Cape Town.",
-    "refs": [
-      "manifest"
-    ],
-    "category": "migration"
-  },
-  {
-    "date": "7 October 1934",
-    "label": "Document",
-    "title": "Arrival entry on Riva\u2019s card",
-    "text": "Gloucester Castle, with this date; Riva still aged fourteen.",
-    "refs": [
-      "riva-id"
-    ],
-    "category": "migration"
-  },
-  {
-    "date": "30 December 1934?",
-    "label": "Recollection",
-    "title": "Hela and Harry marry",
-    "text": "Hela gives 1934 and apparently this day; civil record not obtained.",
-    "refs": [
-      "hela2"
-    ],
-    "category": "family"
-  },
-  {
-    "date": "5 September 1935",
-    "label": "Strong candidate",
-    "title": "Moshe\u2019s death candidate",
-    "text": "Morris Millstein dies at Johannesburg Hospital; registration follows on 6 September.",
-    "refs": [
-      "morris"
-    ],
-    "category": "family"
-  },
-  {
-    "date": "9 October 1935",
-    "label": "Recollection",
-    "title": "Phyllis born",
-    "text": "Hela supplies the date for her daughter.",
-    "refs": [
-      "hela2"
+      "gil-annie-marriage"
     ],
     "category": "family"
   },
@@ -204,7 +163,7 @@
     "date": "1936",
     "label": "Recollection",
     "title": "Minnie arrives",
-    "text": "She remembers joining Doba about six months after Moshe\u2019s death.",
+    "text": "She remembers joining Doba about six months after Moshe’s death.",
     "refs": [
       "minnie1"
     ],
@@ -221,72 +180,32 @@
     "category": "migration"
   },
   {
-    "date": "August / September 1936",
-    "label": "Recollection",
-    "title": "Harry leaves for South Africa",
-    "text": "Exact month and ship require a manifest.",
+    "date": "1937-11-25",
+    "label": "Record / identification as discussed",
+    "title": "Fanny marries Bennie Lang",
+    "text": "Both reside in Mayfair; Fanny is a saleslady and Bennie a salesman.",
     "refs": [
-      "hela2"
-    ],
-    "category": "migration"
-  },
-  {
-    "date": "11 August 1937",
-    "label": "Strong candidate",
-    "title": "Mina and Elias marry",
-    "text": "Johannesburg marriage 1322; strong Minnie identification.",
-    "refs": [
-      "mina-marriage"
+      "gil-fanny-marriage"
     ],
     "category": "family"
   },
   {
-    "date": "November 1937",
-    "label": "Recollection",
-    "title": "Harry moves to Bulawayo",
-    "text": "Hela recalls the move after his South African permit difficulties.",
+    "date": "1938-12-25",
+    "label": "Record / identification as discussed",
+    "title": "Max and Riva marry",
+    "text": "Johannesburg certificate 595; Max 28, Riva 19.",
     "refs": [
-      "hela2"
-    ],
-    "category": "migration"
-  },
-  {
-    "date": "June 1938",
-    "label": "Recollection",
-    "title": "Hela and Phyllis follow",
-    "text": "Warwick Castle, with 27 June recalled; precise event needs confirmation.",
-    "refs": [
-      "hela2"
-    ],
-    "category": "migration"
-  },
-  {
-    "date": "4 August 1941",
-    "label": "Candidate household",
-    "title": "Annie Slot dies",
-    "text": "Notice names Isaac and three children. Identification with the later Slot family remains conditional.",
-    "refs": [
-      "annie"
+      "gil-max-marriage"
     ],
     "category": "family"
   },
   {
     "date": "1941",
     "label": "Testimony",
-    "title": "Chaya Dwora\u2019s death entry",
+    "title": "Chaya Dwora’s death entry",
     "text": "Ukraine, with Maciejow wartime residence; not assigned to the 1942 Opalin massacre.",
     "refs": [
       "chaya"
-    ],
-    "category": "remembrance"
-  },
-  {
-    "date": "2 October 1942",
-    "label": "Historical research",
-    "title": "Mass shooting at Opalin",
-    "text": "Yahad profile dates the murder at the Jewish cemetery.",
-    "refs": [
-      "yahad"
     ],
     "category": "remembrance"
   },
@@ -302,17 +221,7 @@
     "category": "remembrance"
   },
   {
-    "date": "26 July 1952",
-    "label": "Document",
-    "title": "Isaac Slot dies",
-    "text": "Gravestone; burial 31 July.",
-    "refs": [
-      "isaac-grave"
-    ],
-    "category": "family"
-  },
-  {
-    "date": "1955\u20131957",
+    "date": "1955–1957",
     "label": "Catalogue leads",
     "title": "Milrich Engineering candidates",
     "text": "Archive descriptions pair Philip and Benjamin; files not inspected.",
@@ -332,12 +241,214 @@
     "category": "lead"
   },
   {
+    "date": "1956-01-31",
+    "label": "Record / identification as discussed",
+    "title": "Edith (Edie) Lang dies",
+    "text": "Aged 53; her estate notice names maiden surname Gilinsky and Rand Leases, Florida residence.",
+    "refs": [
+      "gil-edie-stone",
+      "gil-edie-gazette"
+    ],
+    "category": "family"
+  },
+  {
+    "date": "1956-08-24",
+    "label": "Record / identification as discussed",
+    "title": "Solomon Gilinsky dies",
+    "text": "Civil registration records age 80, residence in Mayfair; gravestone gives 79. Both conflict with the tree’s 1885 birth.",
+    "refs": [
+      "gil-sol-death",
+      "gil-sol-stone"
+    ],
+    "category": "family"
+  },
+  {
     "date": "1962",
     "label": "Published testimony",
-    "title": "Israel\u2019s brothers reach Israel",
+    "title": "Israel’s brothers reach Israel",
     "text": "Memoir names Avraham and Alter after Soviet exile.",
     "refs": [
       "alter-memoir"
+    ],
+    "category": "migration"
+  },
+  {
+    "date": "1978-12-25",
+    "label": "Record / identification as discussed",
+    "title": "Solly Gilinsky dies",
+    "text": "Stone names wife Sarah and Hebrew father Shlomo.",
+    "refs": [
+      "gil-solly-stone"
+    ],
+    "category": "family"
+  },
+  {
+    "date": "1986",
+    "label": "First-hand recollection",
+    "title": "Mark stays with Israel Alter",
+    "text": "Tel Aviv visit, recalled by Mark.",
+    "refs": [
+      "mark"
+    ],
+    "category": "family"
+  },
+  {
+    "date": "1987-01-23",
+    "label": "Record / identification as discussed",
+    "title": "Fanny Lang dies",
+    "text": "Stone names her Hebrew father Shlomo.",
+    "refs": [
+      "gil-fanny-stone"
+    ],
+    "category": "family"
+  },
+  {
+    "date": "2 August 1997",
+    "label": "Document",
+    "title": "Minnie dies",
+    "text": "Menucha daughter of Leib, U818 Ext D.",
+    "refs": [
+      "minnie-grave"
+    ],
+    "category": "family"
+  },
+  {
+    "date": "2 October 1942",
+    "label": "Historical research",
+    "title": "Mass shooting at Opalin",
+    "text": "Yahad profile dates the murder at the Jewish cemetery.",
+    "refs": [
+      "yahad"
+    ],
+    "category": "remembrance"
+  },
+  {
+    "date": "2000-06-03",
+    "label": "Record / identification as discussed",
+    "title": "Max Gilinsky dies",
+    "text": "Buried 4 June 2000, adjoining Riva’s later grave.",
+    "refs": [
+      "gil-max-stone"
+    ],
+    "category": "family"
+  },
+  {
+    "date": "2015",
+    "label": "Earlier family tree",
+    "title": "Riva’s death year",
+    "text": "From Ethan’s family compilation; no civil death record inspected here.",
+    "refs": [
+      "ethan"
+    ],
+    "category": "family"
+  },
+  {
+    "date": "21 August 1934",
+    "label": "Document",
+    "title": "Settlement visa granted",
+    "text": "British Passport Office, Warsaw.",
+    "refs": [
+      "visa"
+    ],
+    "category": "migration"
+  },
+  {
+    "date": "22 January 1985",
+    "label": "Burial register",
+    "title": "Harry dies",
+    "text": "E1025 Ext C, adjacent to Hela’s eventual plot.",
+    "refs": [
+      "burials"
+    ],
+    "category": "family"
+  },
+  {
+    "date": "23 March 1999?",
+    "label": "Recording",
+    "title": "Hela interview",
+    "text": "Apparent date in the opening; narrative begins on Tape 1 - 2.",
+    "refs": [
+      "hela2"
+    ],
+    "category": "family"
+  },
+  {
+    "date": "25 April 2012",
+    "label": "Witness interview",
+    "title": "Yahad clip recorded",
+    "text": "1443U; subtitle and profile discrepancies preserved.",
+    "refs": [
+      "yahad-video"
+    ],
+    "category": "remembrance"
+  },
+  {
+    "date": "26 July 1952",
+    "label": "Document",
+    "title": "Isaac Slot dies",
+    "text": "Gravestone; burial 31 July.",
+    "refs": [
+      "isaac-grave"
+    ],
+    "category": "family"
+  },
+  {
+    "date": "26 November 2004",
+    "label": "Burial register",
+    "title": "Hela dies",
+    "text": "Chaya Rivka bas Binyomin, E1025 Ext D.",
+    "refs": [
+      "burials"
+    ],
+    "category": "family"
+  },
+  {
+    "date": "3 September 1934",
+    "label": "Document",
+    "title": "German transit permission",
+    "text": "A visa for passage through Germany.",
+    "refs": [
+      "transit"
+    ],
+    "category": "migration"
+  },
+  {
+    "date": "30 December 1934?",
+    "label": "Recollection",
+    "title": "Hela and Harry marry",
+    "text": "Hela gives 1934 and apparently this day; civil record not obtained.",
+    "refs": [
+      "hela2"
+    ],
+    "category": "family"
+  },
+  {
+    "date": "4 August 1941",
+    "label": "Candidate household",
+    "title": "Annie Slot dies",
+    "text": "Notice names Isaac and three children. Identification with the later Slot family remains conditional.",
+    "refs": [
+      "annie"
+    ],
+    "category": "family"
+  },
+  {
+    "date": "5 September 1935",
+    "label": "Strong candidate",
+    "title": "Moshe’s death candidate",
+    "text": "Morris Millstein dies at Johannesburg Hospital; registration follows on 6 September.",
+    "refs": [
+      "morris"
+    ],
+    "category": "family"
+  },
+  {
+    "date": "6 September 1934",
+    "label": "Document",
+    "title": "Polish border departure",
+    "text": "Zbąszyń stamp on the supplied passport scan.",
+    "refs": [
+      "exit"
     ],
     "category": "migration"
   },
@@ -353,104 +464,95 @@
     "category": "family"
   },
   {
-    "date": "19 February 1977",
+    "date": "7 October 1934",
     "label": "Document",
-    "title": "Aron / Arke dies",
-    "text": "Twelve days after Doba; father Moshe named on the stone.",
+    "title": "Arrival entry on Riva’s card",
+    "text": "Gloucester Castle, with this date; Riva still aged fourteen.",
     "refs": [
-      "aron-grave"
-    ],
-    "category": "family"
-  },
-  {
-    "date": "About February 1978",
-    "label": "Recollection",
-    "title": "Hela moves to Johannesburg",
-    "text": "Her recorded account follows Doba\u2019s death.",
-    "refs": [
-      "hela1"
+      "riva-id"
     ],
     "category": "migration"
   },
   {
-    "date": "22 January 1985",
-    "label": "Burial register",
-    "title": "Harry dies",
-    "text": "E1025 Ext C, adjacent to Hela\u2019s eventual plot.",
-    "refs": [
-      "burials"
-    ],
-    "category": "family"
-  },
-  {
-    "date": "1986",
-    "label": "First-hand recollection",
-    "title": "Mark stays with Israel Alter",
-    "text": "Tel Aviv visit, recalled by Mark.",
-    "refs": [
-      "mark"
-    ],
-    "category": "family"
-  },
-  {
-    "date": "2 August 1997",
-    "label": "Document",
-    "title": "Minnie dies",
-    "text": "Menucha daughter of Leib, U818 Ext D.",
-    "refs": [
-      "minnie-grave"
-    ],
-    "category": "family"
-  },
-  {
-    "date": "23 March 1999?",
-    "label": "Recording",
-    "title": "Hela interview",
-    "text": "Apparent date in the opening; narrative begins on Tape 1 - 2.",
+    "date": "9 October 1935",
+    "label": "Recollection",
+    "title": "Phyllis born",
+    "text": "Hela supplies the date for her daughter.",
     "refs": [
       "hela2"
     ],
     "category": "family"
   },
   {
-    "date": "26 November 2004",
-    "label": "Burial register",
-    "title": "Hela dies",
-    "text": "Chaya Rivka bas Binyomin, E1025 Ext D.",
+    "date": "About 1920",
+    "label": "Recollection",
+    "title": "Hela’s father dies",
+    "text": "Hela recalls being eight and her mother left with three daughters.",
     "refs": [
-      "burials"
+      "hela2"
     ],
     "category": "family"
   },
   {
-    "date": "11 August 2011",
-    "label": "Recording",
-    "title": "Ben interview",
-    "text": "The second interview file includes this explicit date.",
+    "date": "About 1929",
+    "label": "Recollection",
+    "title": "Moshe goes to South Africa",
+    "text": "Separate from Doba’s later voyage; his manifest is still missing.",
     "refs": [
-      "ben2"
+      "minnie1",
+      "hela2"
     ],
-    "category": "family"
+    "category": "migration"
   },
   {
-    "date": "25 April 2012",
-    "label": "Witness interview",
-    "title": "Yahad clip recorded",
-    "text": "1443U; subtitle and profile discrepancies preserved.",
+    "date": "About February 1978",
+    "label": "Recollection",
+    "title": "Hela moves to Johannesburg",
+    "text": "Her recorded account follows Doba’s death.",
     "refs": [
-      "yahad-video"
+      "hela1"
     ],
-    "category": "remembrance"
+    "category": "migration"
   },
   {
-    "date": "2015",
-    "label": "Earlier family tree",
-    "title": "Riva\u2019s death year",
-    "text": "From Ethan\u2019s family compilation; no civil death record inspected here.",
+    "date": "August / September 1936",
+    "label": "Recollection",
+    "title": "Harry leaves for South Africa",
+    "text": "Exact month and ship require a manifest.",
     "refs": [
-      "ethan"
+      "hela2"
     ],
-    "category": "family"
+    "category": "migration"
+  },
+  {
+    "date": "Before September 1934",
+    "label": "Recollection",
+    "title": "Arke travels ahead",
+    "text": "Ben names his eldest brother and says he preceded the younger family.",
+    "refs": [
+      "ben1"
+    ],
+    "category": "migration"
+  },
+  {
+    "date": "June 1938",
+    "label": "Recollection",
+    "title": "Hela and Phyllis follow",
+    "text": "Warwick Castle, with 27 June recalled; precise event needs confirmation.",
+    "refs": [
+      "hela2"
+    ],
+    "category": "migration"
+  },
+  {
+    "date": "November 1937",
+    "label": "Recollection",
+    "title": "Harry moves to Bulawayo",
+    "text": "Hela recalls the move after his South African permit difficulties.",
+    "refs": [
+      "hela2"
+    ],
+    "category": "migration"
   },
   {
     "date": "November 2026",

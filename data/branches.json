@@ -11,5 +11,18 @@
       "Israel"
     ],
     "status": "researched collection"
+  },
+  {
+    "id": "gilinsky",
+    "title": "Gilinsky family",
+    "page": "gilinsky.html",
+    "places": [
+      "Benoni",
+      "Upington",
+      "Mayfair",
+      "Florida Lake"
+    ],
+    "status": "Growing collection",
+    "description": "Max and Riva, Shlomo’s store, six siblings and the records behind their story."
   }
 ]

@@ -121,7 +121,7 @@
     "id": "riva",
     "name": "Riva Gilinsky",
     "aliases": "Rywka / Rivka Milstein · Milsztejn · Masie",
-    "dates": "19 November 1919–2015",
+    "dates": "19 November 1919–1 June 2015",
     "status": "Documented",
     "summary": "Doba and Moshe’s daughter; later wife of Max (Mackie) Gilinsky. The identification card records her birth and ship arrival. Masie is a family nickname confirmed by Mark.",
     "refs": [
@@ -133,13 +133,16 @@
       "riva-wedding",
       "riva-max-mark-wedding",
       "school-scan-14",
-      "school-scan-12"
+      "school-scan-12",
+      "gil-max-marriage",
+      "gil-max-stone",
+      "gil-lake"
     ],
     "group": "Milstein",
     "facts": [
       "The 1934 manifest lists Rywka aged 14. The remembered age 16 on arrival conflicts with the card and manifest.",
-      "The death year 2015 is from Ethan’s earlier tree, not a civil death record inspected here.",
-      "Ethan describes family hospitality, synagogue life and shared meals in Emmarentia."
+      "Ethan describes family hospitality, synagogue life and shared meals in Emmarentia.",
+      "Chevrah Kadisha register records death and burial on 1 June 2015; the 1938 marriage names Max Gilinsky."
     ],
     "photo": "riva-wedding.jpg",
     "photoSource": "riva-wedding"
@@ -242,18 +245,25 @@
     "id": "max",
     "name": "Max Gilinsky",
     "aliases": "Mackie",
-    "dates": "1910–2000 (earlier family tree)",
-    "status": "Family history",
-    "summary": "Riva’s husband. Ethan’s account describes Benoni birth, upbringing in Upington and later Johannesburg life; these details have not been joined to civil records here.",
+    "dates": "1910–3 June 2000",
+    "status": "Documented",
+    "summary": "Riva’s husband, known as Mackie. Grew up in Upington after the family lived in Benoni. His 1938 marriage records him as a general dealer; Mark recalls his later Station Jewellers business in Mayfair. <a href=\"gilinsky.html\">Read the Gilinsky branch.</a>",
     "refs": [
-      "ethan",
-      "recent",
-      "riva-max-mark-wedding"
+      "gil-max-marriage",
+      "gil-max-stone",
+      "gil-mark",
+      "gil-horse",
+      "gil-lake",
+      "ethan"
     ],
     "group": "Gilinsky",
-    "facts": [],
-    "photo": "riva-max-mark-wedding.jpg",
-    "photoSource": "riva-max-mark-wedding"
+    "facts": [
+      "Exact birth date 1 October 1910 and Benoni birthplace remain family-tree claims; age 28 in the 1938 marriage supports the approximate year.",
+      "Burial register gives Hebrew name Mordecai son of Shlomo.",
+      "Death 3 June 2000; buried 4 June 2000."
+    ],
+    "photo": "gil-horse.jpg",
+    "photoSource": "gil-horse"
   },
   {
     "id": "aron-lederer",
@@ -644,6 +654,143 @@
       "hela2"
     ],
     "group": "Lederer",
+    "facts": []
+  },
+  {
+    "id": "shlomo-gilinsky",
+    "name": "Shlomo Gilinsky",
+    "aliases": "Solomon · Samuel (family tree)",
+    "dates": "Birth disputed–24 August 1956",
+    "status": "Strong identification",
+    "summary": "Max’s father, identified by Mark in photographs. His Upington store sign names S. Gilinsky, General Dealer. Matching civil death and burial records give ages 80 and 79; the tree’s 1885 birth conflicts.",
+    "refs": [
+      "gil-store",
+      "gil-sol-death",
+      "gil-sol-stone",
+      "gil-estate"
+    ],
+    "group": "Gilinsky",
+    "facts": []
+  },
+  {
+    "id": "leah-gilinsky",
+    "name": "Leah Gilinsky",
+    "aliases": "Lea · candidate Leah Dinah Nasatir",
+    "dates": "Dates unresolved",
+    "status": "Strong identification",
+    "summary": "Mother in the family tree. Leah Dinah Gilinsky, born Nasatir, appears in the 1918 court catalogue and a 1920 remarriage; the direct link to Max is still unconfirmed. Anne Spiro’s estate index names mother Lea.",
+    "refs": [
+      "gil-divorce",
+      "gil-leah-marriage",
+      "gil-anne-estate",
+      "ethan"
+    ],
+    "group": "Gilinsky",
+    "facts": []
+  },
+  {
+    "id": "solly-gilinsky",
+    "name": "Solly Gilinsky",
+    "aliases": "Israel (Hebrew name)",
+    "dates": "About 1903–1904–25 December 1978",
+    "status": "Strong identification",
+    "summary": "Max’s brother, identified by Mark. Gravestone names father Shlomo and wife Sarah; a marriage index names Sarah Gayer.",
+    "refs": [
+      "gil-brothers",
+      "gil-solly-stone",
+      "gil-solly-marriage",
+      "gil-katz"
+    ],
+    "group": "Gilinsky",
+    "facts": []
+  },
+  {
+    "id": "sarah-gilinsky",
+    "name": "Sarah Gilinsky",
+    "aliases": "Sara · Gayer / Geyer",
+    "dates": "Birth unresolved–27 June 1991",
+    "status": "Strong identification",
+    "summary": "Solly’s wife; stone names father Eliyahu. Gayer appears in marriage index and Geyer in Gidon Katz’s recollection, which connects her to the Ochberg group.",
+    "refs": [
+      "gil-sarah-stone",
+      "gil-solly-marriage",
+      "gil-katz"
+    ],
+    "group": "Gilinsky",
+    "facts": []
+  },
+  {
+    "id": "milly-gilinsky",
+    "name": "Milly Gilinsky Katz",
+    "aliases": "Milly Milicent",
+    "dates": "1914–1989 (family tree)",
+    "status": "Family history",
+    "summary": "Gidon Katz identifies Milly as his mother, Benoni-born and raised in Upington, one of six Gilinsky siblings. Her husband Max Katz is a different person from Max Gilinsky.",
+    "refs": [
+      "gil-katz",
+      "ethan"
+    ],
+    "group": "Gilinsky",
+    "facts": []
+  },
+  {
+    "id": "annie-gilinsky",
+    "name": "Annie Gilinsky Spiro",
+    "aliases": "Anne · husband Jack / Jacob Spiro",
+    "dates": "About 1908–2007 (estate index)",
+    "status": "Strong identification",
+    "summary": "1929 Upington marriage names Jack Spiro. A candidate estate index names parents Solomon and Lea Gilinsky, birth in Benoni (indexed Bononi), and husband Jacob Spiro.",
+    "refs": [
+      "gil-annie-marriage",
+      "gil-anne-estate",
+      "gil-mark"
+    ],
+    "group": "Gilinsky",
+    "facts": []
+  },
+  {
+    "id": "edie-gilinsky",
+    "name": "Edith Gilinsky Lang",
+    "aliases": "Edie",
+    "dates": "About 1902–1903–31 January 1956",
+    "status": "Strong identification",
+    "summary": "Gazette establishes maiden surname Gilinsky and Rand Leases, Florida residence. Stone names father Shlomo. Strong candidate for Max’s sister; marriage to Morris remains unlocated.",
+    "refs": [
+      "gil-edie-gazette",
+      "gil-edie-stone",
+      "recent"
+    ],
+    "group": "Gilinsky",
+    "facts": []
+  },
+  {
+    "id": "fanny-gilinsky",
+    "name": "Fanny Gilinsky Lang",
+    "aliases": "Feiga Chaya (provisional Hebrew reading)",
+    "dates": "About 1913–23 January 1987",
+    "status": "Strong identification",
+    "summary": "Married Bennie Lang in Johannesburg in 1937; stone names father Shlomo. Strong candidate for Max’s sister.",
+    "refs": [
+      "gil-fanny-marriage",
+      "gil-fanny-stone",
+      "gil-bennie-stone",
+      "recent"
+    ],
+    "group": "Gilinsky",
+    "facts": []
+  },
+  {
+    "id": "bennie-lang",
+    "name": "Bennie Lang",
+    "aliases": "Bennie",
+    "dates": "About 1905–7 October 1976",
+    "status": "Documented",
+    "summary": "Married Fanny Gilinsky in 1937; gravestone explicitly names wife Fanny. The brother mentioned on his stone is unnamed.",
+    "refs": [
+      "gil-fanny-marriage",
+      "gil-bennie-stone"
+    ],
+    "group": "Gilinsky",
     "facts": []
   }
 ]

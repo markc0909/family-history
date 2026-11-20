@@ -453,5 +453,173 @@
     "kind": "unaltered user-supplied SVG brand mark",
     "bytes": 715,
     "sha256": "ff8c956789ab21585685237abef17add2d371fac439e216a744a7db27cc368bc"
+  },
+  {
+    "file": "assets/documents/gil-store.jpg",
+    "origin": "Family collection, supplied by Mark Cohen",
+    "kind": "Family photograph",
+    "bytes": 21978,
+    "sha256": "8cd8c1ad32875aa3da5558f62dfb26d499f15f96b9e6042d44334cb9f6edfa3f"
+  },
+  {
+    "file": "assets/documents/gil-horse.jpg",
+    "origin": "Family collection, supplied by Mark Cohen",
+    "kind": "Family photograph",
+    "bytes": 126057,
+    "sha256": "f614ecd35928c37f5159d83cbe966f0de58a54bb7afadb38c06be33573a36733"
+  },
+  {
+    "file": "assets/documents/gil-lake.jpg",
+    "origin": "Family collection, supplied by Mark Cohen",
+    "kind": "Family photograph",
+    "bytes": 31678,
+    "sha256": "f9fe1e2d3cdda187a182641d81dbc28ec02f99098c010ea1508b894cd0de96b0"
+  },
+  {
+    "file": "assets/documents/gil-brothers.jpg",
+    "origin": "Family collection, supplied by Mark Cohen, 20 November 2026",
+    "kind": "family original scan",
+    "bytes": 47525,
+    "sha256": "af6208725c8bd81c84e7badc721ec10571f70fbe4d5500f91610564766469a57"
+  },
+  {
+    "file": "assets/documents/gil-portrait.jpg",
+    "origin": "Family collection, supplied by Mark Cohen, 20 November 2026",
+    "kind": "family original scan",
+    "bytes": 21714,
+    "sha256": "4a8577b200aa5fe6b88fd1af1370eee4af38be0c9a79a82647bb2240d8adce1e"
+  },
+  {
+    "file": "assets/documents/gil-group.jpg",
+    "origin": "Family collection, supplied by Mark Cohen",
+    "kind": "Family photograph",
+    "bytes": 57322,
+    "sha256": "60b37799b9790af9e2d8b534b0fdf46bd62ebd0a793fd856473bd5cdd423be49"
+  },
+  {
+    "file": "assets/documents/gil-three.jpg",
+    "origin": "Family collection, supplied by Mark Cohen",
+    "kind": "Family photograph",
+    "bytes": 86576,
+    "sha256": "c3c0a5f8058377e9957717578b56121d2831b25faebd96064f894c4419ffc1ec"
+  },
+  {
+    "file": "assets/documents/gil-table.jpg",
+    "origin": "Family collection, supplied by Mark Cohen, 20 November 2026",
+    "kind": "family original scan",
+    "bytes": 78332,
+    "sha256": "1609d817dad20ad5ed9e0518f40512dc0d8ab389fd0560bf7213bdc54f4e3a3c"
+  },
+  {
+    "file": "assets/documents/gil-max-marriage.png",
+    "origin": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS29-67Y6-W",
+    "kind": "Historical record",
+    "bytes": 126670,
+    "sha256": "0ce3f0e2ef16bf5211c11ae9daf1ba29edbfbf472bfd842069514f5835f1271e"
+  },
+  {
+    "file": "assets/documents/gil-sol-death.png",
+    "origin": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C91L-8WRH-L",
+    "kind": "Historical record",
+    "bytes": 117843,
+    "sha256": "5c12e74da9d8e063f3d55f88ea91cc98b2998fbbb698f114df4e31cbebb977e5"
+  },
+  {
+    "file": "assets/documents/gil-fanny-marriage.png",
+    "origin": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS23-1S5B-6",
+    "kind": "Historical record",
+    "bytes": 110323,
+    "sha256": "dc3805faa048e2e61a6468961998e4efe3b4232fb7f70bcb061f102390c78189"
+  },
+  {
+    "file": "assets/documents/gil-leah-marriage.png",
+    "origin": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C91V-PP47",
+    "kind": "Historical record",
+    "bytes": 142853,
+    "sha256": "4fcf11514d8500038fee8710a1658aedccc5cb930bc8bcb32a005972d915b2c3"
+  },
+  {
+    "file": "assets/documents/gil-annie-marriage.gif",
+    "origin": "https://kehilalinks.jewishgen.org/upington/Spiro-Gilinsky.gif",
+    "kind": "Historical record",
+    "bytes": 727225,
+    "sha256": "c67e0f0dcf1e46792c142cb1d62401fbe80655c19825b31eba8d5cf0ab8c161d"
+  },
+  {
+    "file": "assets/documents/gil-sol-remarriage.gif",
+    "origin": "https://kehilalinks.jewishgen.org/upington/Gilinsky-Skop.gif",
+    "kind": "Historical record",
+    "bytes": 829242,
+    "sha256": "c6d38819e89fbb9f3faff9415dabb7d9ef0b7f0076baa38dc7934d27a52c1950"
+  },
+  {
+    "file": "assets/documents/gil-sol-stone.jpg",
+    "origin": "https://media.jhbchev.co.za/grave-images/J/J-67-001.jpg",
+    "kind": "Burial record",
+    "bytes": 376800,
+    "sha256": "a14a000cb77734cea3a35a5549f49175a3adc44b667766e136559f80441dafff"
+  },
+  {
+    "file": "assets/documents/gil-max-stone.jpg",
+    "origin": "https://media.jhbchev.co.za/grave-images/H/H-1300-B-001.jpg",
+    "kind": "Burial record",
+    "bytes": 364273,
+    "sha256": "bd6877a944379d79cdd23a86b0795799d9167c8bce8a7156d81e3dd031ade3d8"
+  },
+  {
+    "file": "assets/documents/gil-solly-stone.jpg",
+    "origin": "https://media.jhbchev.co.za/grave-images/H/H-2678-001.jpg",
+    "kind": "Burial record",
+    "bytes": 366467,
+    "sha256": "7f6b0eff46699727193944002bc3c0e8f7b694f7cb8e20611d8231159f9f2b4d"
+  },
+  {
+    "file": "assets/documents/gil-sarah-stone.jpg",
+    "origin": "https://media.jhbchev.co.za/grave-images/H/H-2679-001.jpg",
+    "kind": "Burial record",
+    "bytes": 326760,
+    "sha256": "ad8ac58205a95e405a52dd04c8a4ed27e829fa34fea5664eb4995674981133d5"
+  },
+  {
+    "file": "assets/documents/gil-edie-stone.jpg",
+    "origin": "https://media.jhbchev.co.za/grave-images/B/B-1275-001.jpg",
+    "kind": "Burial record",
+    "bytes": 147124,
+    "sha256": "d92157e8cc5a745be62e04d35580bf8110e0bb48d3bf6fe20769a4716c3ecbe6"
+  },
+  {
+    "file": "assets/documents/gil-fanny-stone.jpg",
+    "origin": "https://media.jhbchev.co.za/grave-images/U/U-1300-001.jpg",
+    "kind": "Burial record",
+    "bytes": 273498,
+    "sha256": "252efb97c08bfd3e4e66e00feb43e5bb10c70e6770668be295343a98b838c705"
+  },
+  {
+    "file": "assets/documents/gil-bennie-stone.jpg",
+    "origin": "https://media.jhbchev.co.za/grave-images/S/S-2032-001.jpg",
+    "kind": "Burial record",
+    "bytes": 331397,
+    "sha256": "0d8b392fa13291f3c9990190cff041de20c4eb74c946b2c1a7f3c8582f12e535"
+  },
+  {
+    "file": "assets/documents/gil-edie-gazette.pdf",
+    "origin": "https://www.lac.org.na/laws/GGsa/sagg5653.pdf",
+    "kind": "Historical record",
+    "bytes": 9807384,
+    "sha256": "5acd2c73f40d05be6dfd8fd504a6d3899f2af4872907fed3ceb9bb918c0beb2e"
+  },
+  {
+    "file": "assets/documents/gil-family-group.jpg",
+    "origin": "Family collection, supplied by Mark Cohen, 20 November 2026",
+    "kind": "family original scan",
+    "bytes": 57322,
+    "sha256": "60b37799b9790af9e2d8b534b0fdf46bd62ebd0a793fd856473bd5cdd423be49"
+  },
+  {
+    "file": "assets/documents/gil-three-children.jpg",
+    "origin": "Family collection, supplied by Mark Cohen, 20 November 2026",
+    "kind": "family original scan",
+    "bytes": 86576,
+    "sha256": "c3c0a5f8058377e9957717578b56121d2831b25faebd96064f894c4419ffc1ec"
   }
 ]
