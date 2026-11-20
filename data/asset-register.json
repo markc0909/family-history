@@ -621,5 +621,40 @@
     "kind": "family original scan",
     "bytes": 86576,
     "sha256": "c3c0a5f8058377e9957717578b56121d2831b25faebd96064f894c4419ffc1ec"
+  },
+  {
+    "file": "assets/documents/moishe-milstein-portrait.pdf",
+    "origin": "Family collection, supplied by Mark Cohen as Zaida Moishe Milstein.pdf",
+    "kind": "family original scan",
+    "bytes": 4704330,
+    "sha256": "25a43e52df0e665339bc58041b0da62984249a9a488c67803f368090b18ed0f1"
+  },
+  {
+    "file": "assets/documents/moishe-milstein-portrait.jpg",
+    "origin": "Family collection, supplied by Mark Cohen as Zaida Moishe Milstein.pdf",
+    "kind": "PDF display derivative",
+    "bytes": 495375,
+    "sha256": "dbc2e5a64c3f336b00079a77f2c7633431c9ef2c01a358f6787568175a209144"
+  },
+  {
+    "file": "assets/images/moishe-milstein-portrait.jpg",
+    "origin": "Family collection, supplied by Mark Cohen as Zaida Moishe Milstein.pdf",
+    "kind": "PDF display derivative",
+    "bytes": 495375,
+    "sha256": "dbc2e5a64c3f336b00079a77f2c7633431c9ef2c01a358f6787568175a209144"
+  },
+  {
+    "file": "assets/documents/mark-milstein-family-tree-2013.pdf",
+    "origin": "Compiled by Mark Milstein (Ben’s son); supplied by Mark Cohen as Milstein_full.pdf",
+    "kind": "family original PDF",
+    "bytes": 2115983,
+    "sha256": "c3e119ba98cbf454674e43b79cf9817743fa01e13e25d23968c85aedd7002fa5"
+  },
+  {
+    "file": "assets/images/mark-milstein-family-tree-2013.jpg",
+    "origin": "Compiled by Mark Milstein (Ben’s son); supplied by Mark Cohen as Milstein_full.pdf",
+    "kind": "PDF overview derivative",
+    "bytes": 85181,
+    "sha256": "50f4812303f8556362dd8c20ce0baec9dd1a25878116672fb95191f63db09307"
   }
 ]

@@ -39,10 +39,13 @@
     "refs": [
       "minnie1",
       "minnie2",
-      "minnie-grave"
+      "minnie-grave",
+      "mark-milstein-tree"
     ],
     "group": "Milstein",
-    "facts": []
+    "facts": [
+      "Mark Milstein’s May 2013 tree calls him Haim, Leibisz Milstein and gives 1872–1944; these dates remain family-tree entries awaiting corroboration."
+    ]
   },
   {
     "id": "chaya-appelbaum",
@@ -53,10 +56,13 @@
     "summary": "Minnie’s mother and Moshe’s mother in the working tree; daughter of Zalman. Her parents and village require records.",
     "refs": [
       "minnie1",
-      "minnie2"
+      "minnie2",
+      "mark-milstein-tree"
     ],
     "group": "Appelbaum",
-    "facts": []
+    "facts": [
+      "Mark Milstein’s 2013 tree gives her death year as 1928 and her place as Wilka, Poland; these entries require corroboration."
+    ]
   },
   {
     "id": "moshe",
@@ -69,13 +75,18 @@
       "ben1",
       "minnie1",
       "morris",
-      "moshe-photo"
+      "moshe-photo",
+      "moishe-portrait",
+      "mark-milstein-tree"
     ],
     "group": "Milstein",
     "facts": [
       "The candidate death record estimates birth around 1893–1894 from age 41.",
-      "The original death date is 5 September; 6 September is registration, and the date in the memorial index."
-    ]
+      "The original death date is 5 September; 6 September is registration, and the date in the memorial index.",
+      "Mark Milstein’s 2013 tree gives birth in Opalin in 1894 and death in Johannesburg in 1935; it supplies no exact death date."
+    ],
+    "photo": "moishe-milstein-portrait.jpg",
+    "photoSource": "moishe-portrait"
   },
   {
     "id": "doba",
@@ -89,12 +100,14 @@
       "manifest",
       "burials",
       "doba-estate",
-      "ben2"
+      "ben2",
+      "mark-milstein-tree"
     ],
     "group": "Lederer",
     "facts": [
       "Estate reference 2783/77; the full estate is outstanding.",
-      "Passport birth year 1895 differs from the age 38 in the 1934 manifest."
+      "Passport birth year 1895 differs from the age 38 in the 1934 manifest.",
+      "Mark Milstein’s 2013 tree gives her birth as 1 May 1895 and death as 7 February 1977; the exact birthday is a family-tree entry."
     ]
   },
   {
@@ -109,12 +122,14 @@
       "minnie1",
       "aron-grave",
       "mark",
-      "recent"
+      "recent",
+      "mark-milstein-tree"
     ],
     "group": "Milstein",
     "facts": [
       "The burial date is 20 February 1977, H 2215.",
-      "His death and Doba’s are twelve days apart, despite remembered intervals of ten or eleven."
+      "His death and Doba’s are twelve days apart, despite remembered intervals of ten or eleven.",
+      "Mark Milstein’s 2013 tree names him Aharon Milstein and gives death in Johannesburg in 1977, consistent with the recorded year."
     ]
   },
   {
@@ -136,13 +151,15 @@
       "school-scan-12",
       "gil-max-marriage",
       "gil-max-stone",
-      "gil-lake"
+      "gil-lake",
+      "mark-milstein-tree"
     ],
     "group": "Milstein",
     "facts": [
       "The 1934 manifest lists Rywka aged 14. The remembered age 16 on arrival conflicts with the card and manifest.",
       "Ethan describes family hospitality, synagogue life and shared meals in Emmarentia.",
-      "Chevrah Kadisha register records death and burial on 1 June 2015; the 1938 marriage names Max Gilinsky."
+      "Chevrah Kadisha register records death and burial on 1 June 2015; the 1938 marriage names Max Gilinsky.",
+      "Mark Milstein’s 2013 tree also records the marriage on 25 December 1938 in Johannesburg, now confirmed by the inspected register."
     ],
     "photo": "riva-wedding.jpg",
     "photoSource": "riva-wedding"
@@ -160,10 +177,13 @@
       "ben1",
       "ben2",
       "mark",
-      "business"
+      "business",
+      "mark-milstein-tree"
     ],
     "group": "Milstein",
-    "facts": []
+    "facts": [
+      "His son Mark Milstein’s tree, prepared for Benny’s 90th in May 2013, gives his birth as 1 May 1923 in Opalin and his marriage to Lily, Lea Sher as 25 June 1950 in Johannesburg. These are family-tree entries."
+    ]
   },
   {
     "id": "philip",
@@ -178,10 +198,13 @@
       "opalin1",
       "opalin2",
       "mark",
-      "business"
+      "business",
+      "mark-milstein-tree"
     ],
     "group": "Milstein",
-    "facts": []
+    "facts": [
+      "Mark Milstein’s 2013 tree gives birth as 4 August 1927 in Opalin and marriage to Rae Isbutsky as 19 June 1956 in Johannesburg; these dates are family-tree entries."
+    ]
   },
   {
     "id": "nutke",
@@ -273,10 +296,13 @@
     "status": "Unverified lead",
     "summary": "Listed as Doba’s father in Ethan’s earlier Ancestry tree. No inspected parentage record confirms this.",
     "refs": [
-      "ethan"
+      "ethan",
+      "mark-milstein-tree"
     ],
     "group": "Lederer",
-    "facts": []
+    "facts": [
+      "Mark Milstein’s 2013 tree names Aharon Lederer and Finkel Lederer as Doba’s parents; this is another family compilation, not independent civil proof."
+    ]
   },
   {
     "id": "finkel",
