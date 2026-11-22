@@ -725,10 +725,15 @@
       "gil-brothers",
       "gil-solly-stone",
       "gil-solly-marriage",
-      "gil-katz"
+      "gil-katz",
+      "gil-sarah-solly-wedding",
+      "gil-solly-young",
+      "gil-solly-later"
     ],
     "group": "Gilinsky",
-    "facts": []
+    "facts": [],
+    "photo": "gil-solly-later.jpg",
+    "photoSource": "gil-solly-later"
   },
   {
     "id": "sarah-gilinsky",
@@ -740,7 +745,8 @@
     "refs": [
       "gil-sarah-stone",
       "gil-solly-marriage",
-      "gil-katz"
+      "gil-katz",
+      "gil-sarah-solly-wedding"
     ],
     "group": "Gilinsky",
     "facts": []
@@ -829,10 +835,13 @@
     "refs": [
       "cohen-mark",
       "cohen-outward",
-      "cohen-lewis-photo"
+      "cohen-lewis-photo",
+      "cohen-census-1901"
     ],
     "group": "Cohen",
-    "facts": [],
+    "facts": [
+      "The 1901 census records Lewis aged 22 and Becky aged 20, both born in Poland. Becky’s age conflicts with the older tree’s birth year."
+    ],
     "photo": "cohen-lewis.jpg",
     "photoSource": "cohen-lewis-photo"
   },
@@ -845,10 +854,13 @@
     "summary": "Poland-born according to the supplied family account; wife of Lewis. Portrait identified by Mark. Marriage, parentage and exact birthplace await original records.",
     "refs": [
       "cohen-mark",
-      "cohen-rebecca-photo"
+      "cohen-rebecca-photo",
+      "cohen-census-1901"
     ],
     "group": "Cohen",
-    "facts": [],
+    "facts": [
+      "The 1901 census records Lewis aged 22 and Becky aged 20, both born in Poland. Becky’s age conflicts with the older tree’s birth year."
+    ],
     "photo": "cohen-rebecca.jpg",
     "photoSource": "cohen-rebecca-photo"
   },
@@ -894,10 +906,15 @@
     "refs": [
       "cohen-mark",
       "cohen-leonard-arrival",
-      "cohen-leonard-stone"
+      "cohen-leonard-stone",
+      "luba-leonard-wedding",
+      "leonard-childhood-garden",
+      "leonard-childhood-swimsuit"
     ],
     "group": "Cohen",
-    "facts": [],
+    "facts": [
+      "Wedding portrait with Luba supplied and identified by their son Mark; date and venue unspecified."
+    ],
     "photo": "cohen-leonard-stone.jpg",
     "photoSource": "cohen-leonard-stone"
   },
@@ -1014,6 +1031,47 @@
       "cohen-freed-comments"
     ],
     "group": "Cohen / Freed",
+    "facts": []
+  },
+  {
+    "id": "luba-gilinsky",
+    "name": "Luba Gilinsky Cohen",
+    "aliases": "",
+    "dates": "Dates not published",
+    "status": "Family testimony",
+    "summary": "Mark’s mother and Leonard Lewis Cohen’s wife. Daughter of Max and Riva in the family account; identified by Mark in the wedding portrait.",
+    "refs": [
+      "cohen-mark",
+      "luba-leonard-wedding"
+    ],
+    "group": "Gilinsky / Cohen",
+    "facts": []
+  },
+  {
+    "id": "masha-berger",
+    "name": "Masha Berger",
+    "aliases": "",
+    "dates": "Dates not published",
+    "status": "Family testimony",
+    "summary": "Max Gilinsky’s daughter and Jonathan Berger’s mother, identified in Mark’s accompanying family account.",
+    "refs": [
+      "gil-mark",
+      "gil-jonathan-max-mark"
+    ],
+    "group": "Gilinsky / Berger",
+    "facts": []
+  },
+  {
+    "id": "jonathan-berger",
+    "name": "Jonathan Berger",
+    "aliases": "",
+    "dates": "Dates not published",
+    "status": "Family testimony",
+    "summary": "Masha Berger’s son, Max Gilinsky’s grandson and Mark’s cousin. Mark identifies Jonathan at left in their photograph with Max in the centre and Mark at right.",
+    "refs": [
+      "gil-jonathan-max-mark"
+    ],
+    "group": "Gilinsky / Berger",
     "facts": []
   }
 ]

@@ -1188,5 +1188,95 @@
     "file": null,
     "thumb": null,
     "locator": null
+  },
+  {
+    "id": "rangatira-inquiry",
+    "title": "Rangatira: official inquiry No. 7715",
+    "type": "Official inquiry",
+    "note": "Official finding: stranded Robben Island at 11:52 a.m., 31 March 1916; hearing Cape Town 26 April, issued London 27 June 1916. Captain Robert Dixon Lowden; crew 79; no loss of life or injury. Court found negligence and recommended six-month certificate suspension. Refloating had failed at the hearing.",
+    "url": null,
+    "file": "rangatira-inquiry-7715.pdf",
+    "thumb": "rangatira-inquiry-7715.jpg",
+    "locator": null
+  },
+  {
+    "id": "cohen-census-1901",
+    "title": "Lewis and Becky Cohen: 1901 census",
+    "type": "Census image",
+    "note": "RG 13/300, folio 39, page 21, schedule 118. Lewis 22, married, machinist (tailor), worker; Becky 20, married. Both Poland-born with Russian-subject annotation. Address appears to carry down as 41 Artillery Lane; provisional. One room appears recorded. No child listed in this household. Identified by Mark.",
+    "url": null,
+    "file": "cohen-census-1901.jpg",
+    "thumb": "cohen-census-1901.jpg",
+    "locator": null
+  },
+  {
+    "id": "luba-leonard-wedding",
+    "title": "Luba and Leonard’s wedding portrait",
+    "type": "Family photograph",
+    "note": "Identified by Mark as his parents at their wedding. Date and venue unspecified.",
+    "url": null,
+    "file": "luba-leonard-wedding.jpg",
+    "thumb": "luba-leonard-wedding.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-sarah-solly-wedding",
+    "title": "Sarah and Solly’s wedding portrait",
+    "type": "Family photograph",
+    "note": "Mark identifies Solly at left and Sarah at right, at their wedding. Photograph undated; separate marriage index gives 24 June 1928. Venue unknown.",
+    "url": null,
+    "file": "gil-sarah-solly-wedding.jpg",
+    "thumb": "gil-sarah-solly-wedding.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-solly-young",
+    "title": "Solly Gilinsky: full-length portrait",
+    "type": "Family photograph",
+    "note": "Solly in a suit and hat against a painted backdrop. Identified by Mark; date and location unknown.",
+    "url": null,
+    "file": "gil-solly-young.jpg",
+    "thumb": "gil-solly-young.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-solly-later",
+    "title": "Solly Gilinsky: later portrait",
+    "type": "Family photograph",
+    "note": "Solly in formal evening dress with a boutonniere. Identified by Mark; date and occasion unknown.",
+    "url": null,
+    "file": "gil-solly-later.jpg",
+    "thumb": "gil-solly-later.jpg",
+    "locator": null
+  },
+  {
+    "id": "gil-jonathan-max-mark",
+    "title": "Jonathan, Max and Mark",
+    "type": "Family photograph",
+    "note": "Left to right: Jonathan Berger, Max (Mackie) Gilinsky, Mark Cohen. Identified by Mark. He identifies Jonathan as Masha Berger’s son and Max’s grandson. Date and location unknown.",
+    "url": null,
+    "file": "gil-jonathan-max-mark.jpeg",
+    "thumb": "gil-jonathan-max-mark.jpg",
+    "locator": null
+  },
+  {
+    "id": "leonard-childhood-garden",
+    "title": "Leonard as a young child: garden frames",
+    "type": "Family photograph",
+    "note": "Three film frames identified by Mark as Leonard Lewis Cohen in early childhood. Original scan preserved intact; date and location unknown.",
+    "url": null,
+    "file": "leonard-childhood-garden.jpg",
+    "thumb": "leonard-childhood-garden.jpg",
+    "locator": null
+  },
+  {
+    "id": "leonard-childhood-swimsuit",
+    "title": "Leonard as a young child: swimsuit frames",
+    "type": "Family photograph",
+    "note": "Two film frames identified by Mark as Leonard Lewis Cohen in early childhood. Original scan preserved intact; date and location unknown.",
+    "url": null,
+    "file": "leonard-childhood-swimsuit.jpg",
+    "thumb": "leonard-childhood-swimsuit.jpg",
+    "locator": null
   }
 ]

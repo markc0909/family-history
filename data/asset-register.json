@@ -796,5 +796,131 @@
     "kind": "display copy",
     "bytes": 750298,
     "sha256": "6e82503a9e11297321ac0b813122fb4332e2398aeaea634f041515f8358edba4"
+  },
+  {
+    "file": "assets/documents/rangatira-inquiry-7715.pdf",
+    "origin": "Supplied by Mark Cohen",
+    "kind": "Official inquiry",
+    "bytes": 67889,
+    "sha256": "132fb53f9e30fd65a568f2ed60d5fe8b1711cf1e8ddc18263aea28391980ee3e"
+  },
+  {
+    "file": "assets/images/rangatira-inquiry-7715.jpg",
+    "origin": "Display derivative of rangatira-inquiry-7715.pdf",
+    "kind": "display copy",
+    "bytes": 352051,
+    "sha256": "1ed64496e1a9d5ab3fb602a1804b7bfca829832d5b4fa71f3d5525c83b37bb11"
+  },
+  {
+    "file": "assets/documents/cohen-census-1901.jpg",
+    "origin": "Supplied by Mark Cohen",
+    "kind": "Census image",
+    "bytes": 591676,
+    "sha256": "1cc9f9e56378c90f0963c12813c6b4673b28817523a5a54b8b67bd2c5ca795c4"
+  },
+  {
+    "file": "assets/images/cohen-census-1901.jpg",
+    "origin": "Display derivative of cohen-census-1901.jpg",
+    "kind": "display copy",
+    "bytes": 503430,
+    "sha256": "b112c7340618f302768c3f15e143d2e1c48421ce96de3e929f585d89fee84b92"
+  },
+  {
+    "file": "assets/documents/luba-leonard-wedding.jpg",
+    "origin": "Supplied by Mark Cohen",
+    "kind": "Family photograph",
+    "bytes": 28773,
+    "sha256": "4bb39eb1c3d5af2a2cb40da82f7790d21ab760fce9bf5360fc3eb76699f4c947"
+  },
+  {
+    "file": "assets/images/luba-leonard-wedding.jpg",
+    "origin": "Display derivative of luba-leonard-wedding.jpg",
+    "kind": "display copy",
+    "bytes": 203455,
+    "sha256": "6732ca39fa2e99c0455d9afbc5098af62b573573f2564db96a5a60583ecb3a44"
+  },
+  {
+    "file": "assets/documents/gil-sarah-solly-wedding.jpg",
+    "origin": "Supplied by Mark Cohen",
+    "kind": "Family photograph",
+    "bytes": 29446,
+    "sha256": "49b4730070dfa4681f478dd7649239d259ec525332d3ca432336701daa0748b0"
+  },
+  {
+    "file": "assets/images/gil-sarah-solly-wedding.jpg",
+    "origin": "Display derivative of gil-sarah-solly-wedding.jpg",
+    "kind": "display copy",
+    "bytes": 187592,
+    "sha256": "0647d7a698cc0ad7ffe37dc1dee16688403c56d886f0a92f54262f81d0d3ced1"
+  },
+  {
+    "file": "assets/documents/gil-solly-young.jpg",
+    "origin": "Supplied by Mark Cohen",
+    "kind": "Family photograph",
+    "bytes": 81724,
+    "sha256": "96875dfc424452bc3fd47ed4c22c1133eb1f01208a4e14518ba65358c9165d34"
+  },
+  {
+    "file": "assets/images/gil-solly-young.jpg",
+    "origin": "Display derivative of gil-solly-young.jpg",
+    "kind": "display copy",
+    "bytes": 200043,
+    "sha256": "e376197b5f0afc7179760f3e12b92cbeeeb0d0f774aa0973075d11b212b655cb"
+  },
+  {
+    "file": "assets/documents/gil-solly-later.jpg",
+    "origin": "Supplied by Mark Cohen",
+    "kind": "Family photograph",
+    "bytes": 96955,
+    "sha256": "a1efa34069e63614d078f0f49203748a06db5f6e8865338204da3456b08b819a"
+  },
+  {
+    "file": "assets/images/gil-solly-later.jpg",
+    "origin": "Display derivative of gil-solly-later.jpg",
+    "kind": "display copy",
+    "bytes": 170467,
+    "sha256": "79a09a89df1c81c024678569d9bd4aac93a8581cb91690fbcbcf68338d1a1a70"
+  },
+  {
+    "file": "assets/documents/gil-jonathan-max-mark.jpeg",
+    "origin": "Supplied by Mark Cohen",
+    "kind": "Family photograph",
+    "bytes": 228584,
+    "sha256": "441812520d3770d5ade3a9a865ed8c47d8aa7fb0f143616cb3eb033624d94dca"
+  },
+  {
+    "file": "assets/images/gil-jonathan-max-mark.jpg",
+    "origin": "Display derivative of gil-jonathan-max-mark.jpeg",
+    "kind": "display copy",
+    "bytes": 339086,
+    "sha256": "8ff73a81928c3671314ba0d3aed8406e7a6ef996118f5f0e22a2cbed53ea8512"
+  },
+  {
+    "file": "assets/documents/leonard-childhood-garden.jpg",
+    "origin": "Supplied by Mark Cohen",
+    "kind": "Family photograph",
+    "bytes": 4329612,
+    "sha256": "721f176b9182a64fc45c5784bde55c95afcb75d8cb63f6a38b8e3665a4509d4a"
+  },
+  {
+    "file": "assets/images/leonard-childhood-garden.jpg",
+    "origin": "Display derivative of leonard-childhood-garden.jpg",
+    "kind": "display copy",
+    "bytes": 366759,
+    "sha256": "7eb21912f43baa7e7a644d11b25a07cab90eae29d84ac08a629a37a0c2ff74da"
+  },
+  {
+    "file": "assets/documents/leonard-childhood-swimsuit.jpg",
+    "origin": "Supplied by Mark Cohen",
+    "kind": "Family photograph",
+    "bytes": 3002115,
+    "sha256": "83c6a13b1b857c124ba9b9f829d61e96e00d589078225be46afc8c5d6fec558e"
+  },
+  {
+    "file": "assets/images/leonard-childhood-swimsuit.jpg",
+    "origin": "Display derivative of leonard-childhood-swimsuit.jpg",
+    "kind": "display copy",
+    "bytes": 490232,
+    "sha256": "c05000b4d9fe027433289396f0e7687b9b376615bd8c09062738ceb7e9202c39"
   }
 ]

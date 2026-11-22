@@ -615,5 +615,25 @@
       "cohen-mark"
     ],
     "category": "family"
+  },
+  {
+    "date": "1901",
+    "label": "Census / family identification",
+    "title": "Lewis and Becky in London",
+    "text": "Schedule 118 lists Lewis,22,a machinist (tailor), and wife Becky,20,both Poland-born. No child listed; recorded ages remain distinct from older family-tree dates.",
+    "refs": [
+      "cohen-census-1901"
+    ],
+    "category": "family"
+  },
+  {
+    "date": "31 March 1916",
+    "label": "Official inquiry",
+    "title": "Rangatira strands on Robben Island",
+    "text": "Official inquiry No.7715 fixes stranding at11:52a.m.; no loss of life or injury. This later voyage is separate from the Cohen family’s1913passage.",
+    "refs": [
+      "rangatira-inquiry"
+    ],
+    "category": "migration"
   }
 ]
