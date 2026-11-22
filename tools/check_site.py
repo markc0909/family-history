@@ -31,6 +31,7 @@ for f,p in pages.items():
 for data in ('sources','people','timeline','branches','recordings','passages','asset-register'):
  json.loads((ROOT/'data'/f'{data}.json').read_text())
 for f in ROOT.rglob('*'):
+ if '.git' in f.relative_to(ROOT).parts:continue
  if f.is_file() and f.stat().st_size>100*1024*1024:errors.append(f'{f.relative_to(ROOT)} exceeds GitHub 100 MiB individual-file limit')
 print(f'Checked {len(pages)} pages and {links} local links.')
 if errors:
