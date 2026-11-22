@@ -656,5 +656,145 @@
     "kind": "PDF overview derivative",
     "bytes": 85181,
     "sha256": "50f4812303f8556362dd8c20ce0baec9dd1a25878116672fb95191f63db09307"
+  },
+  {
+    "file": "assets/documents/cohen-rebecca.jpg",
+    "origin": "Supplied by Mark Cohen",
+    "kind": "family supplied image",
+    "bytes": 34560,
+    "sha256": "08f6bfe948638f79e6bf96659be6931ed976e074bfd85f5ae5a4587d9d4b91fa"
+  },
+  {
+    "file": "assets/documents/cohen-lewis.jpg",
+    "origin": "Supplied by Mark Cohen",
+    "kind": "family supplied image",
+    "bytes": 34742,
+    "sha256": "3045896b21d7a013b0933edc67c773caba2305e9c3dc7c50fc873d3bceac9dab"
+  },
+  {
+    "file": "assets/documents/cohen-manifest-1913.jpg",
+    "origin": "Supplied by Mark Cohen",
+    "kind": "family supplied image",
+    "bytes": 947619,
+    "sha256": "eb009f9d5df32bcc3f41b464efaafe5451863ab7902142854051ae862a05cf01"
+  },
+  {
+    "file": "assets/documents/cohen-leonard-arrival.jpg",
+    "origin": "Supplied by Mark Cohen",
+    "kind": "family supplied image",
+    "bytes": 496608,
+    "sha256": "53851ed4c24b51e162079d72035e97052e12accf744ef8203edecea551c9bd11"
+  },
+  {
+    "file": "assets/documents/cohen-leonard-stone.jpeg",
+    "origin": "Supplied by Mark Cohen",
+    "kind": "family supplied image",
+    "bytes": 424079,
+    "sha256": "046924c0ee713b0f7cab30874bbdce18eaec7bc79b086913d43083cb1de1aa2f"
+  },
+  {
+    "file": "assets/documents/cohen-david-stone.png",
+    "origin": "Supplied by Mark Cohen",
+    "kind": "family supplied image",
+    "bytes": 1156061,
+    "sha256": "72a52066a8f4f0ebf418bff6678c4bf8d2351da6d7f49a1c46c763378cc6e4d1"
+  },
+  {
+    "file": "assets/documents/cohen-harry.png",
+    "origin": "Supplied by Mark Cohen",
+    "kind": "family supplied image",
+    "bytes": 307774,
+    "sha256": "51efc6f2ed53a4da0cc9b2d7725b09dc22d8d1e160450e26243c18961dac9f82"
+  },
+  {
+    "file": "assets/documents/cohen-keens.pdf",
+    "origin": "https://www.lac.org.na/laws/GGsa/sagg3485.pdf",
+    "kind": "public PDF download",
+    "bytes": 8322905,
+    "sha256": "3eb5b6ad991074e403c73e7b0ad9b679ebcb0fa93f458342f73a4b18dae8cf38"
+  },
+  {
+    "file": "assets/documents/cohen-wreck.pdf",
+    "origin": "https://journals.uj.ac.za/pdf/safa/1994_1%20UJ%20FIELD%20Archive/03_26-32%20Werz%201994%20Searching%20for%20shipwrecks%20off%20Robben%20Island.pdf",
+    "kind": "public PDF download",
+    "bytes": 1830596,
+    "sha256": "780efcc33f8c2a8d8abc50bfbe10f7d002b78d3b4d7f21d8dec8ab37e8b91328"
+  },
+  {
+    "file": "assets/documents/cohen-voltex.pdf",
+    "origin": "https://bidvest.co.za/pdf/annual-reports/2007/our-businesses-and-products.pdf",
+    "kind": "public PDF download",
+    "bytes": 2356120,
+    "sha256": "33a89651a2e35187a71344a3349e9919a98a5f0209fd3d58291592cc899b9323"
+  },
+  {
+    "file": "assets/images/cohen-harry.jpg",
+    "origin": "Web display derivative of supplied family image",
+    "kind": "display copy",
+    "bytes": 202291,
+    "sha256": "ce72a6e87a4f86cbcce482c2f790fe0340bb5d3da2fdabf655d5aff2ed0cdeb6"
+  },
+  {
+    "file": "assets/images/cohen-david-stone.jpg",
+    "origin": "Web display derivative of supplied family image",
+    "kind": "display copy",
+    "bytes": 688331,
+    "sha256": "d24810590019acad5c229159adbda264c3b959c44ddca83428b52608c86203a5"
+  },
+  {
+    "file": "assets/images/cohen-rebecca.jpg",
+    "origin": "Web display derivative of supplied family image",
+    "kind": "display copy",
+    "bytes": 247911,
+    "sha256": "8518ad1452d009485363fb765e736ad86f38e3b06b4e9ac24b27667833218617"
+  },
+  {
+    "file": "assets/images/cohen-leonard-stone.jpg",
+    "origin": "Web display derivative of supplied family image",
+    "kind": "display copy",
+    "bytes": 750298,
+    "sha256": "6e82503a9e11297321ac0b813122fb4332e2398aeaea634f041515f8358edba4"
+  },
+  {
+    "file": "assets/images/cohen-manifest-1913.jpg",
+    "origin": "Web display derivative of supplied family image",
+    "kind": "display copy",
+    "bytes": 641901,
+    "sha256": "7d9460e81b096706c524a78da6cc91f652b26c9003ac693a2c0ec7a059bbff88"
+  },
+  {
+    "file": "assets/images/cohen-leonard-arrival.jpg",
+    "origin": "Web display derivative of supplied family image",
+    "kind": "display copy",
+    "bytes": 408878,
+    "sha256": "11b4aec28a591374325cc81478c1729f8a2d8769c5473cb4a4a8421143485045"
+  },
+  {
+    "file": "assets/images/cohen-lewis.jpg",
+    "origin": "Web display derivative of supplied family image",
+    "kind": "display copy",
+    "bytes": 235940,
+    "sha256": "774465d740a1264ad9e23e7e16ba685dd68faa1cde507e693dc9a9681bdf7e9a"
+  },
+  {
+    "file": "assets/documents/cohen-harry.jpg",
+    "origin": "Web display derivative of supplied family image",
+    "kind": "display copy",
+    "bytes": 202291,
+    "sha256": "ce72a6e87a4f86cbcce482c2f790fe0340bb5d3da2fdabf655d5aff2ed0cdeb6"
+  },
+  {
+    "file": "assets/documents/cohen-david-stone.jpg",
+    "origin": "Web display derivative of supplied family image",
+    "kind": "display copy",
+    "bytes": 688331,
+    "sha256": "d24810590019acad5c229159adbda264c3b959c44ddca83428b52608c86203a5"
+  },
+  {
+    "file": "assets/documents/cohen-leonard-stone.jpg",
+    "origin": "Web display derivative of supplied family image",
+    "kind": "display copy",
+    "bytes": 750298,
+    "sha256": "6e82503a9e11297321ac0b813122fb4332e2398aeaea634f041515f8358edba4"
   }
 ]

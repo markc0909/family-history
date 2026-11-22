@@ -1,6 +1,6 @@
 # Our Family Archive
 
-A standalone, dependency-free family-history website, prepared for Mark Cohen. The first collection covers Milstein and Lederer of Opalin, with Appelbaum, Alter, Spitalnik, Gilinsky and Slot connections. Earlier written history is credited to **Ethan Cohen**, Mark’s son.
+A standalone, dependency-free family-history website, prepared for Mark Cohen. The first collection covers Milstein and Lederer of Opalin, with Appelbaum, Alter, Spitalnik, Gilinsky and Slot connections. The Cohen and Katz branch follows the family from London to Bondi and Johannesburg, with a Freed connection. Earlier written history is credited to **Ethan Cohen**, Mark’s son.
 
 ## GitHub repository
 

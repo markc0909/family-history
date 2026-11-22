@@ -563,5 +563,57 @@
       "mark"
     ],
     "category": "lead"
+  },
+  {
+    "date": "6 February 1913",
+    "label": "Document / family identification",
+    "title": "Cohen family leaves London",
+    "text": "Rangatira manifest names Lewis,MrsCohen,Isaac,Davey andDebra,booked toSydney.",
+    "refs": [
+      "cohen-outward"
+    ],
+    "category": "migration"
+  },
+  {
+    "date": "20 March 1913",
+    "label": "Document / family identification",
+    "title": "Arrival in Sydney",
+    "text": "Publicarrivaltranscription matches the fiveCohens. Mark confirms family later lived inBondi.",
+    "refs": [
+      "cohen-sydney",
+      "cohen-mark"
+    ],
+    "category": "migration"
+  },
+  {
+    "date": "20 April 1945",
+    "label": "Document / family identification",
+    "title": "David continues Keens",
+    "text": "Partnershipnotice records AlecNatas’s retirement;David continues at118PresidentStreet.",
+    "refs": [
+      "cohen-keens"
+    ],
+    "category": "family"
+  },
+  {
+    "date": "24 December 1959",
+    "label": "Document / family identification",
+    "title": "Leonard arrives at Southampton",
+    "text": "CapetownCastle arrival records Leonard’sbirth2June1941 and studentoccupation.",
+    "refs": [
+      "cohen-leonard-arrival"
+    ],
+    "category": "migration"
+  },
+  {
+    "date": "16 July 1980",
+    "label": "Document / family identification",
+    "title": "David Cohen dies",
+    "text": "Date on suppliedgravestone;graveTT1166 identified byMark.",
+    "refs": [
+      "cohen-david-stone",
+      "cohen-mark"
+    ],
+    "category": "family"
   }
 ]

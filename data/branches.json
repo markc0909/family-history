@@ -24,5 +24,19 @@
     ],
     "status": "Growing collection",
     "description": "Max and Riva, Shlomo’s store, six siblings and the records behind their story."
+  },
+  {
+    "id": "cohen",
+    "title": "Cohen & Katz",
+    "page": "cohen.html",
+    "places": [
+      "London",
+      "Bondi",
+      "Johannesburg",
+      "Canada",
+      "Israel"
+    ],
+    "status": "Growing collection",
+    "description": "Lewis and Rebecca, David and Millie, Leonard and the Freed connection."
   }
 ]

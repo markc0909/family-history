@@ -818,5 +818,202 @@
     ],
     "group": "Gilinsky",
     "facts": []
+  },
+  {
+    "id": "lewis-cohen",
+    "name": "Lewis Cohen",
+    "aliases": "Father of David · possible Hebrew name Leib",
+    "dates": "c.1879–1 May 1963 (family tree)",
+    "status": "Family testimony",
+    "summary": "Married Rebecca Katz, reportedly in 1899. Father of Isaac/Harry, David and Dolly. Mark identifies the household in the 1913 Sydney records; David’s stone appears to name his father as Leib.",
+    "refs": [
+      "cohen-mark",
+      "cohen-outward",
+      "cohen-lewis-photo"
+    ],
+    "group": "Cohen",
+    "facts": [],
+    "photo": "cohen-lewis.jpg",
+    "photoSource": "cohen-lewis-photo"
+  },
+  {
+    "id": "rebecca-katz",
+    "name": "Rebecca Katz Cohen",
+    "aliases": "Rebecca · daughter of Yitzchak (family account)",
+    "dates": "c.1878–4 July 1953 (family tree)",
+    "status": "Family testimony",
+    "summary": "Poland-born according to the supplied family account; wife of Lewis. Portrait identified by Mark. Marriage, parentage and exact birthplace await original records.",
+    "refs": [
+      "cohen-mark",
+      "cohen-rebecca-photo"
+    ],
+    "group": "Cohen",
+    "facts": [],
+    "photo": "cohen-rebecca.jpg",
+    "photoSource": "cohen-rebecca-photo"
+  },
+  {
+    "id": "david-cohen",
+    "name": "David Cohen",
+    "aliases": "Davey in1913manifest",
+    "dates": "8 January 1903 (family tree)–16 July 1980",
+    "status": "Family testimony",
+    "summary": "Mark’s paternal grandfather; husband of Millie Kavin and father of Leonard Lewis. Mark links him to Keens, an electrical wholesaler named in a 1945 notice. His death is confirmed by the gravestone; the passenger age of eight conflicts with his supplied birth date.",
+    "refs": [
+      "cohen-mark",
+      "cohen-keens",
+      "cohen-david-stone"
+    ],
+    "group": "Cohen",
+    "facts": [],
+    "photo": "cohen-david-stone.jpg",
+    "photoSource": "cohen-david-stone"
+  },
+  {
+    "id": "millie-kavin",
+    "name": "Millie Kavin Cohen",
+    "aliases": "Wife of David",
+    "dates": "Dates unknown",
+    "status": "Family testimony",
+    "summary": "Mother of Leonard according to Mark. Millie Cohen’s 1989 application concerns Houghton erven 1752 and 1753; a later notice locates erf 1752 at the remembered family home, 40 Central Street.",
+    "refs": [
+      "cohen-mark",
+      "cohen-houghton-1989",
+      "cohen-houghton-1997"
+    ],
+    "group": "Cohen",
+    "facts": []
+  },
+  {
+    "id": "leonard-cohen",
+    "name": "Leonard Lewis Cohen",
+    "aliases": "Yehuda Leib son of David",
+    "dates": "2 June 1941–30 January 1995",
+    "status": "Family testimony",
+    "summary": "Mark’s father. The 1959 Southampton arrival list records his exact birth date and student occupation; his gravestone confirms his death date and Hebrew patronymic.",
+    "refs": [
+      "cohen-mark",
+      "cohen-leonard-arrival",
+      "cohen-leonard-stone"
+    ],
+    "group": "Cohen",
+    "facts": [],
+    "photo": "cohen-leonard-stone.jpg",
+    "photoSource": "cohen-leonard-stone"
+  },
+  {
+    "id": "harry-cohen",
+    "name": "Isaac (Harry) Cohen",
+    "aliases": "Isaac · Harry",
+    "dates": "Born c.1900 (family tree)",
+    "status": "Family testimony",
+    "summary": "David’s brother. Mark identifies the childhood portrait. The 1913 manifest lists Isaac aged eleven, implying a birth around 1901–1902; his precise birth date and later life remain unresolved.",
+    "refs": [
+      "cohen-mark",
+      "cohen-outward",
+      "cohen-harry-photo"
+    ],
+    "group": "Cohen",
+    "facts": [],
+    "photo": "cohen-harry.jpg",
+    "photoSource": "cohen-harry-photo"
+  },
+  {
+    "id": "dolly-cohen",
+    "name": "Deby (Dolly) Cohen",
+    "aliases": "Debra · Dolly",
+    "dates": "Born c.1906 (family tree)",
+    "status": "Family testimony",
+    "summary": "David’s sister and Lucille’s mother in Mark’s account. The 1913 manifest gives Debra’s age as five, implying a birth around 1907–1908. Married surname and later dates remain unresolved.",
+    "refs": [
+      "cohen-mark",
+      "cohen-outward"
+    ],
+    "group": "Cohen",
+    "facts": []
+  },
+  {
+    "id": "lucille-freed",
+    "name": "Lucille Freed",
+    "aliases": "",
+    "dates": "Dates not published",
+    "status": "Family testimony",
+    "summary": "Dolly’s daughter in Mark’s family account; married Brian. Public comments attributed to the couple in 2017 match their names and four children.",
+    "refs": [
+      "cohen-mark",
+      "cohen-freed-comments"
+    ],
+    "group": "Cohen / Freed",
+    "facts": []
+  },
+  {
+    "id": "brian-freed",
+    "name": "Brian Freed",
+    "aliases": "",
+    "dates": "Dates not published",
+    "status": "Family testimony",
+    "summary": "Husband of Lucille. Public comments attributed to the couple in 2017 describe decades in Canada followed by Israel; exact migration dates and current residence are not established.",
+    "refs": [
+      "cohen-mark",
+      "cohen-freed-comments"
+    ],
+    "group": "Cohen / Freed",
+    "facts": []
+  },
+  {
+    "id": "lauren-freed",
+    "name": "Lauren Freed",
+    "aliases": "",
+    "dates": "Dates not published",
+    "status": "Family testimony",
+    "summary": "Older daughter named in comments attributed to Brian and Lucille; likely the sibling whose name Mark could not recall.",
+    "refs": [
+      "cohen-mark",
+      "cohen-freed-comments"
+    ],
+    "group": "Cohen / Freed",
+    "facts": []
+  },
+  {
+    "id": "daryl-freed",
+    "name": "Daryl Freed",
+    "aliases": "",
+    "dates": "Dates not published",
+    "status": "Family testimony",
+    "summary": "Son of Brian and Lucille. This spelling appears in the 2017 comments; Mark recalled Darryl.",
+    "refs": [
+      "cohen-mark",
+      "cohen-freed-comments"
+    ],
+    "group": "Cohen / Freed",
+    "facts": []
+  },
+  {
+    "id": "nadine-freed",
+    "name": "Nadine Freed",
+    "aliases": "",
+    "dates": "Dates not published",
+    "status": "Family testimony",
+    "summary": "Daughter of Brian and Lucille, named by Mark and in the 2017 public comments.",
+    "refs": [
+      "cohen-mark",
+      "cohen-freed-comments"
+    ],
+    "group": "Cohen / Freed",
+    "facts": []
+  },
+  {
+    "id": "kim-freed",
+    "name": "Kim Freed",
+    "aliases": "",
+    "dates": "Dates not published",
+    "status": "Family testimony",
+    "summary": "Youngest of the four children by ages in the 2017 comments, consistent with Mark’s recollection.",
+    "refs": [
+      "cohen-mark",
+      "cohen-freed-comments"
+    ],
+    "group": "Cohen / Freed",
+    "facts": []
   }
 ]

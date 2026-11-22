@@ -978,5 +978,215 @@
     "file": null,
     "thumb": null,
     "locator": "Playlist titles and links checked 20 November 2026"
+  },
+  {
+    "id": "cohen-mark",
+    "title": "Mark Cohen: Cohen family recollections",
+    "type": "Family testimony",
+    "note": "Family relationships, Bondi residence, Keens as an electrical wholesaler, David’s Houghton home and investments, Africana recollection and Dolly’s family. Dates supplied from the older tree remain unverified where stated.",
+    "url": null,
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "cohen-rebecca-photo",
+    "title": "Rebecca Katz Cohen",
+    "type": "Family photograph",
+    "note": "Portrait identified by Mark; date and location unknown.",
+    "url": null,
+    "file": "cohen-rebecca.jpg",
+    "thumb": "cohen-rebecca.jpg",
+    "locator": null
+  },
+  {
+    "id": "cohen-lewis-photo",
+    "title": "Lewis Cohen",
+    "type": "Family photograph",
+    "note": "Portrait identified by Mark; date and location unknown.",
+    "url": null,
+    "file": "cohen-lewis.jpg",
+    "thumb": "cohen-lewis.jpg",
+    "locator": null
+  },
+  {
+    "id": "cohen-outward",
+    "title": "Rangatira outbound manifest, 1913",
+    "type": "Family document",
+    "note": "Rangatira, 6 February 1913, London; ticket H56. Lewis 33, Mrs Cohen 33, Isaac 11, Davey 8, Debra 5; third class, landing Sydney, intended New South Wales residence. Ages conflict with the family-tree birth dates. BT27/809.",
+    "url": null,
+    "file": "cohen-manifest-1913.jpg",
+    "thumb": "cohen-manifest-1913.jpg",
+    "locator": null
+  },
+  {
+    "id": "cohen-leonard-arrival",
+    "title": "Leonard’s Southampton arrival, 1959",
+    "type": "Family document",
+    "note": "Capetown Castle, Southampton, 24 December 1959, row 234: Leonard Lewis Cohen, born 2 June 1941, single South African student; planned UK visit of ten days.",
+    "url": null,
+    "file": "cohen-leonard-arrival.jpg",
+    "thumb": "cohen-leonard-arrival.jpg",
+    "locator": null
+  },
+  {
+    "id": "cohen-leonard-stone",
+    "title": "Leonard Lewis Cohen gravestone",
+    "type": "Family photograph",
+    "note": "Death 30 January 1995. Hebrew: Yehuda Leib son of David ha-Kohen. Plot U7422 visible.",
+    "url": null,
+    "file": "cohen-leonard-stone.jpeg",
+    "thumb": "cohen-leonard-stone.jpg",
+    "locator": null
+  },
+  {
+    "id": "cohen-david-stone",
+    "title": "David Cohen gravestone",
+    "type": "Family photograph",
+    "note": "Death 16 July 1980. Hebrew appears to read David son of Leib, died 3 Av 5740; transcription provisional. Grave TT 1166 supplied by Mark.",
+    "url": null,
+    "file": "cohen-david-stone.png",
+    "thumb": "cohen-david-stone.jpg",
+    "locator": null
+  },
+  {
+    "id": "cohen-harry-photo",
+    "title": "Isaac (Harry) Cohen as a child",
+    "type": "Family photograph",
+    "note": "Identified by Mark; date and place unknown.",
+    "url": null,
+    "file": "cohen-harry.png",
+    "thumb": "cohen-harry.jpg",
+    "locator": null
+  },
+  {
+    "id": "cohen-sydney",
+    "title": "Rangatira arrival at Sydney, 20 March 1913",
+    "type": "Public record transcription",
+    "note": "NSW Shipping Master’s Office, NRS 13278, [X373], reels 2070–2071; transcription by Les Lyons. Same five Cohen entries and ages as the outbound manifest. Mark confirms the family identification. Original arrival scan not inspected.",
+    "url": "https://www.marinersandships.com.au/1913/03/127ran.htm",
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "cohen-keens",
+    "title": "Keens partnership notice, 1945",
+    "type": "Official notice",
+    "note": "Government Gazette, 11 May 1945; notice dated 20 April 1945, reference 2931—27-4-11. David Cohen continued Keens at 22 Montreal House, 118 President Street after Alec Natas retired. Strong identification through Mark’s recollection of the business name.",
+    "url": "https://www.lac.org.na/laws/GGsa/sagg3485.pdf",
+    "file": "cohen-keens.pdf",
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "cohen-houghton-1989",
+    "title": "Millie Cohen’s Houghton application, 1989",
+    "type": "Official notice",
+    "note": "Transvaal Gazette, 22 March 1989, page 1139: Millie Cohen applied concerning erven 1752 and 1753, Houghton Estate, Johannesburg Amendment Scheme 2539. Acreage is not stated. Public PDF remains externally linked; download was unavailable.",
+    "url": "https://archive.opengazettes.org.za/archive/ZA-transvaal/1989/provincial-gazette-ZA-transvaal-vol-232-no-4613-dated-1989-03-22.pdf",
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "cohen-houghton-1991",
+    "title": "Houghton property approval, 1991",
+    "type": "Official notice",
+    "note": "Gazette, 18 September 1991, page 4550, Notice 1984: erven 1752 and 1753, deed T7788/54, scheme 2539. Ownership succession is not established. External PDF link retained.",
+    "url": "https://archive.opengazettes.org.za/archive/ZA-transvaal/1991/provincial-gazette-ZA-transvaal-vol-234-no-4777-dated-1991-09-18.pdf",
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "cohen-houghton-1997",
+    "title": "40 Central Street identified as erf 1752",
+    "type": "Official notice",
+    "note": "Gauteng Gazette, 29 October 1997: a planning notice locates erf 1752, Houghton Estate, at 40 Central Street, Lower Houghton. This connects the family’s remembered address to one erf in the 1989 application.",
+    "url": "https://archive.opengazettes.org.za/archive/ZA-GT/1997/provincial-gazette-ZA-GT-vol-3-no-404-dated-1997-10-29.pdf",
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "cohen-quarantine",
+    "title": "North Head quarantine history",
+    "type": "Institutional history",
+    "note": "Harbour Trust tour notes describe a 21-month-old Rangatira passenger dying of measles at the Quarantine Station on 23 March 1913. No Cohen admission or illness is established. External PDF link retained.",
+    "url": "https://www.harbourtrust.gov.au/media/2309/resource-tour-notes-3rd-q.pdf",
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "cohen-smallpox",
+    "title": "Sydney’s separate 1913 smallpox epidemic",
+    "type": "Institutional history",
+    "note": "The National Museum traces Sydney’s 1913 smallpox epidemic to Zealandia’s arrival on 12 April 1913, later than Rangatira. Mark accepts measles as the corrected family recollection.",
+    "url": "https://www.nma.gov.au/exhibitions/glorious-days/social-laboratory/quarantine",
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "cohen-wreck",
+    "title": "Rangatira wreck near Robben Island",
+    "type": "Published research",
+    "note": "Werz’s 1994 archaeological survey lists the Rangatira wreck at Robben Island on 31 March 1916, three years after the Cohen voyage. A later press retrospective gives 30 March; the discrepancy remains open.",
+    "url": "https://journals.uj.ac.za/pdf/safa/1994_1%20UJ%20FIELD%20Archive/03_26-32%20Werz%201994%20Searching%20for%20shipwrecks%20off%20Robben%20Island.pdf",
+    "file": "cohen-wreck.pdf",
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "cohen-freed-comments",
+    "title": "Brian and Lucille Freed’s public family comments",
+    "type": "Public family recollection",
+    "note": "Public comments attributed to Brian and Lucille Freed, 16 July 2017, name Lauren, Daryl, Nadine and Kim. They describe forty years in Canada and six in Israel. Strong household match, but not independently authenticated or evidence of current residence. No adoption record is provided.",
+    "url": "https://stantgsm.com/view-post/%20mazeltov%20to%20cocky%20feldman%20on%20his%2080th%20birthday/4338",
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "cohen-voltex",
+    "title": "Keens Electrical in Bidvest’s 2007 directory",
+    "type": "Company publication",
+    "note": "Bidvest’s 2007 business directory lists Keens Electrical under Voltex Electrical Distribution. The ownership chain from David’s business has not been established; Mark recalls an earlier sale.",
+    "url": "https://bidvest.co.za/pdf/annual-reports/2007/our-businesses-and-products.pdf",
+    "file": "cohen-voltex.pdf",
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "gil-shelter-1902",
+    "title": "Sch. Gilinsky: 1902 shelter candidate",
+    "type": "Public record index",
+    "note": "Sch. Gilinsky entered the shelter on 5 December 1902 and left on 11 December: age 26, bootmaker, birthplace Kowno, from Libau, onward on Dunolly Castle, arrived on Kursk; volume 5.1, reference 1009. He has not been identified as Shlomo.",
+    "url": "https://www.jewishroots.uct.ac.za/Shelter.aspx",
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "gil-passenger-1906",
+    "title": "Gilinsky / Gilensky travelling group, 1906",
+    "type": "Public record index",
+    "note": "UCT index: Mrs L. Gilinsky, 28; Miss E., 2; Master S., 3; Avondale Castle, 24 November 1906, bound for Cape Town. Emigrant index names Leie and a three-day shelter stay. Findmypast indexes surname Gilensky, shared image BT27/0519/00/0008/P/0001F. Possible Leah, Edith and Solly; original not inspected.",
+    "url": "https://www.jewishroots.uct.ac.za/Shipping.aspx",
+    "file": null,
+    "thumb": null,
+    "locator": null
+  },
+  {
+    "id": "gil-naturalisation",
+    "title": "S. Gilinsky naturalisation catalogue",
+    "type": "Archive catalogue",
+    "note": "S. Gilinsky naturalisation: TAB CS 847/14202, part 1. Catalogue provides no date or full first name. Candidate only; enquiry sent 21 November 2026, file outstanding.",
+    "url": "https://www.nationalarchives.gov.za/search/document/25335113",
+    "file": null,
+    "thumb": null,
+    "locator": null
   }
 ]
